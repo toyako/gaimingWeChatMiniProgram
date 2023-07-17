@@ -1,0 +1,49 @@
+{
+	"pages": [
+		{
+			"path": "pages/index1/index1",
+			"style": {}
+		},
+		{
+			"path": "pages/index2/index2",
+			"style": {}
+		},
+		{
+			"path": "pages/effectiveness/index",
+			"style": {}
+		}
+	],
+	"tabBar": {
+		"color": "#101010",
+		"selectedColor": "#000",
+		"list": [
+			{
+				"pagePath": "pages/index1/index1",
+				"text": "首页",
+				"iconPath": "static/pages/img/homehui.jpg",
+				"selectedIconPath": "static/pages/img/home.jpg"
+			},
+			{
+				"pagePath": "pages/effectiveness/index",
+				"text": "战力查询",
+				"iconPath": "static/pages/img/homehui.jpg",
+				"selectedIconPath": "static/pages/img/home.jpg"
+			},
+			{
+				"pagePath": "pages/index2/index2",
+				"text": "空白名",
+				"iconPath": "static/pages/img/konghui.jpg",
+				"selectedIconPath": "static/pages/img/kong.jpg"
+			}
+		]
+	},
+	"sitemapLocation": "sitemap.json",
+	"globalStyle": {
+		"backgroundTextStyle": "light",
+		"navigationBarTextStyle":"black",
+		"navigationBarTitleText": "王者改名小工具",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"subPackages": []
+}
