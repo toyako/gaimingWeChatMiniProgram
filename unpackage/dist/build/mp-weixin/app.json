@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index1/index1",
+    "pages/index2/index2"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "王者改名小工具",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#101010",
+    "selectedColor": "#000",
+    "list": [
+      {
+        "pagePath": "pages/index1/index1",
+        "text": "首页",
+        "iconPath": "static/pages/img/homehui.jpg",
+        "selectedIconPath": "static/pages/img/home.jpg"
+      },
+      {
+        "pagePath": "pages/index2/index2",
+        "text": "空白名",
+        "iconPath": "static/pages/img/konghui.jpg",
+        "selectedIconPath": "static/pages/img/kong.jpg"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "plugins": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

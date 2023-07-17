@@ -1,0 +1,1804 @@
+搜索到40个文件(含目录)，耗时：7ms
+
+write pages.json success!
+write manifest.json success!
+write main.js success!
+write package.json success!
+
+
+统计信息：
+
+Component数量: 0
+Page数量: 2
+支付api数量: 0
+登录api数量: 0
+chooseMedia数量: 0
+getLocation数量: 0
+getRelationNodes数量: 0
+<ad/>数量: 0
+<map/>数量: 0
+<video/>数量: 0
+
+恭喜你，转换完成！
+用时: 13.056s
+工具版本：v2.1.3
+在该小程序项目的同级目录可以看到_uni结尾的项目，即是转换好的uniapp项目，相关日志在该目录里。
+
+使用说明：
+    1.因各种原因，本工具并非100%完美转换！部分语法仍需人工处理！
+    2.如遇运行报错，请添加QQ群(四群：555691239)带图反馈或https://github.com/zhangdaren/miniprogram-to-uniapp提交Issue！
+    3.更多信息请查阅转换后目录里的 README.md 和 transform.log
+
+
+folder H:/Project/gaimingWeChatMiniProgram-master_uni
+hbxExecutableProgram  H:\SoftInstall\HBuilderX\HBuilderX.exe
+run
+stdout: 
+stderr: 
+buffer sync supports: []
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+cancel last request:0
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+event: [{"range":{"end":{"character":1,"line":70},"start":{"character":0,"line":0}},"rangeLength":2141,"rangeOffset":0,"text":""}]
+event: [{"range":{"end":{"character":0,"line":0},"start":{"character":0,"line":0}},"rangeLength":2723,"rangeOffset":0,"text":"{\n    \"name\" : \"wz\",\n    \"appid\" : \"\",\n    \"description\" : \"\",\n    \"versionName\" : \"1.0.0\",\n    \"versionCode\" : \"100\",\n    \"transformPx\" : false,\n    \"app-plus\" : {\n        \"usingComponents\" : true,\n        \"nvueStyleCompiler\" : \"uni-app\",\n        \"compilerVersion\" : 3,\n        \"splashscreen\" : {\n            \"alwaysShowBeforeRender\" : true,\n            \"waiting\" : true,\n            \"autoclose\" : true,\n            \"delay\" : 0\n        },\n        \"modules\" : {},\n        \"distribute\" : {\n            \"android\" : {\n                \"permissions\" : [\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.VIBRATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_LOGS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_WIFI_STATE\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera.autofocus\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CAMERA\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.GET_ACCOUNTS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_PHONE_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_WIFI_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WAKE_LOCK\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.FLASHLIGHT\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WRITE_SETTINGS\\\"/>\"\n                ]\n            },\n            \"ios\" : {},\n            \"sdkConfigs\" : {}\n        }\n    },\n    \"quickapp\" : {},\n    \"mp-weixin\" : {\n        \"appid\" : \"wx539eeaf0eab2dade\",\n        \"setting\" : {\n            \"urlCheck\" : false\n        },\n        \"usingComponents\" : true,\n        \"permission\" : {\n            \"scope.userLocation\" : {\n                \"desc\" : \"你的位置信息将用于小程序位置接口的效果展示\"\n            }\n        },\n        \"plugins\" : {},\n        \"cloudfunctionRoot\" : \"functions/\"\n    },\n    \"mp-alipay\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-baidu\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-toutiao\" : {\n        \"usingComponents\" : true\n    },\n    \"uniStatistics\" : {\n        \"enable\" : false\n    },\n    \"vueVersion\" : \"2\"\n}\n"}]
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":0,"line":71},"start":{"character":0,"line":0}},"rangeLength":2723,"rangeOffset":0,"text":""}]
+event: [{"range":{"end":{"character":0,"line":0},"start":{"character":0,"line":0}},"rangeLength":2749,"rangeOffset":0,"text":"{\n    \"name\" : \"wz\",\n    \"appid\" : \"\",\n    \"description\" : \"\",\n    \"versionName\" : \"1.0.0\",\n    \"versionCode\" : \"100\",\n    \"transformPx\" : false,\n    \"app-plus\" : {\n        \"usingComponents\" : true,\n        \"nvueStyleCompiler\" : \"uni-app\",\n        \"compilerVersion\" : 3,\n        \"splashscreen\" : {\n            \"alwaysShowBeforeRender\" : true,\n            \"waiting\" : true,\n            \"autoclose\" : true,\n            \"delay\" : 0\n        },\n        \"modules\" : {},\n        \"distribute\" : {\n            \"android\" : {\n                \"permissions\" : [\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.VIBRATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_LOGS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_WIFI_STATE\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera.autofocus\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CAMERA\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.GET_ACCOUNTS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_PHONE_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_WIFI_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WAKE_LOCK\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.FLASHLIGHT\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WRITE_SETTINGS\\\"/>\"\n                ]\n            },\n            \"ios\" : {},\n            \"sdkConfigs\" : {}\n        }\n    },\n    \"quickapp\" : {},\n    \"mp-weixin\" : {\n        \"appid\" : \"wx539eeaf0eab2dade\",\n        \"setting\" : {\n            \"urlCheck\" : false,\n            \"es6\" : true\n        },\n        \"usingComponents\" : true,\n        \"permission\" : {\n            \"scope.userLocation\" : {\n                \"desc\" : \"你的位置信息将用于小程序位置接口的效果展示\"\n            }\n        },\n        \"plugins\" : {},\n        \"cloudfunctionRoot\" : \"functions/\"\n    },\n    \"mp-alipay\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-baidu\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-toutiao\" : {\n        \"usingComponents\" : true\n    },\n    \"uniStatistics\" : {\n        \"enable\" : false\n    },\n    \"vueVersion\" : \"2\"\n}\n"}]
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":0,"line":72},"start":{"character":0,"line":0}},"rangeLength":2749,"rangeOffset":0,"text":""}]
+event: [{"range":{"end":{"character":0,"line":0},"start":{"character":0,"line":0}},"rangeLength":2779,"rangeOffset":0,"text":"{\n    \"name\" : \"wz\",\n    \"appid\" : \"\",\n    \"description\" : \"\",\n    \"versionName\" : \"1.0.0\",\n    \"versionCode\" : \"100\",\n    \"transformPx\" : false,\n    \"app-plus\" : {\n        \"usingComponents\" : true,\n        \"nvueStyleCompiler\" : \"uni-app\",\n        \"compilerVersion\" : 3,\n        \"splashscreen\" : {\n            \"alwaysShowBeforeRender\" : true,\n            \"waiting\" : true,\n            \"autoclose\" : true,\n            \"delay\" : 0\n        },\n        \"modules\" : {},\n        \"distribute\" : {\n            \"android\" : {\n                \"permissions\" : [\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.VIBRATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_LOGS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_WIFI_STATE\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera.autofocus\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CAMERA\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.GET_ACCOUNTS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_PHONE_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_WIFI_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WAKE_LOCK\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.FLASHLIGHT\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WRITE_SETTINGS\\\"/>\"\n                ]\n            },\n            \"ios\" : {},\n            \"sdkConfigs\" : {}\n        }\n    },\n    \"quickapp\" : {},\n    \"mp-weixin\" : {\n        \"appid\" : \"wx539eeaf0eab2dade\",\n        \"setting\" : {\n            \"urlCheck\" : false,\n            \"es6\" : true,\n            \"postcss\" : true\n        },\n        \"usingComponents\" : true,\n        \"permission\" : {\n            \"scope.userLocation\" : {\n                \"desc\" : \"你的位置信息将用于小程序位置接口的效果展示\"\n            }\n        },\n        \"plugins\" : {},\n        \"cloudfunctionRoot\" : \"functions/\"\n    },\n    \"mp-alipay\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-baidu\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-toutiao\" : {\n        \"usingComponents\" : true\n    },\n    \"uniStatistics\" : {\n        \"enable\" : false\n    },\n    \"vueVersion\" : \"2\"\n}\n"}]
+sendEvent willSaveTextDocument
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+cancel last request:0
+event: [{"range":{"end":{"character":15,"line":2},"start":{"character":15,"line":2}},"rangeLength":14,"rangeOffset":36,"text":"__UNI__6702700"}]
+sendEvent willSaveTextDocument
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":31,"line":9},"start":{"character":18,"line":9}},"rangeLength":13,"rangeOffset":173,"text":""}]
+event: [{"range":{"end":{"character":18,"line":9},"start":{"character":18,"line":9}},"rangeLength":23,"rangeOffset":173,"text":"cloud1-0g35tno1d8eeffaa"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/App.vue","textChanges":[{"newText":"","start":{"line":10,"offset":19},"end":{"line":10,"offset":32}}]}]
+[LanguageServerIndex] [Error - 15:48:03] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/App.vue","textChanges":[{"newText":"cloud1-0g35tno1d8eeffaa","start":{"line":10,"offset":19},"end":{"line":10,"offset":19}}]}]
+[LanguageServerIndex] [Error - 15:48:04] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+buffer sync supports: []
+cancel last request:0
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+event: [{"range":{"end":{"character":0,"line":73},"start":{"character":0,"line":0}},"rangeLength":2793,"rangeOffset":0,"text":""}]
+event: [{"range":{"end":{"character":0,"line":0},"start":{"character":0,"line":0}},"rangeLength":2793,"rangeOffset":0,"text":"{\n    \"name\" : \"wz\",\n    \"appid\" : \"__UNI__90C6F41\",\n    \"description\" : \"\",\n    \"versionName\" : \"1.0.0\",\n    \"versionCode\" : \"100\",\n    \"transformPx\" : false,\n    \"app-plus\" : {\n        \"usingComponents\" : true,\n        \"nvueStyleCompiler\" : \"uni-app\",\n        \"compilerVersion\" : 3,\n        \"splashscreen\" : {\n            \"alwaysShowBeforeRender\" : true,\n            \"waiting\" : true,\n            \"autoclose\" : true,\n            \"delay\" : 0\n        },\n        \"modules\" : {},\n        \"distribute\" : {\n            \"android\" : {\n                \"permissions\" : [\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.VIBRATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_LOGS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_WIFI_STATE\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera.autofocus\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CAMERA\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.GET_ACCOUNTS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_PHONE_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_WIFI_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WAKE_LOCK\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.FLASHLIGHT\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WRITE_SETTINGS\\\"/>\"\n                ]\n            },\n            \"ios\" : {},\n            \"sdkConfigs\" : {}\n        }\n    },\n    \"quickapp\" : {},\n    \"mp-weixin\" : {\n        \"appid\" : \"wx539eeaf0eab2dade\",\n        \"setting\" : {\n            \"urlCheck\" : false,\n            \"es6\" : true,\n            \"postcss\" : true\n        },\n        \"usingComponents\" : true,\n        \"permission\" : {\n            \"scope.userLocation\" : {\n                \"desc\" : \"你的位置信息将用于小程序位置接口的效果展示\"\n            }\n        },\n        \"plugins\" : {},\n        \"cloudfunctionRoot\" : \"functions/\"\n    },\n    \"mp-alipay\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-baidu\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-toutiao\" : {\n        \"usingComponents\" : true\n    },\n    \"uniStatistics\" : {\n        \"enable\" : false\n    },\n    \"vueVersion\" : \"2\"\n}\n"}]
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":0,"line":73},"start":{"character":0,"line":0}},"rangeLength":2793,"rangeOffset":0,"text":""}]
+event: [{"range":{"end":{"character":0,"line":0},"start":{"character":0,"line":0}},"rangeLength":2793,"rangeOffset":0,"text":"{\n    \"name\" : \"wz\",\n    \"appid\" : \"__UNI__90C6F41\",\n    \"description\" : \"\",\n    \"versionName\" : \"1.0.0\",\n    \"versionCode\" : \"100\",\n    \"transformPx\" : false,\n    \"app-plus\" : {\n        \"usingComponents\" : true,\n        \"nvueStyleCompiler\" : \"uni-app\",\n        \"compilerVersion\" : 3,\n        \"splashscreen\" : {\n            \"alwaysShowBeforeRender\" : true,\n            \"waiting\" : true,\n            \"autoclose\" : true,\n            \"delay\" : 0\n        },\n        \"modules\" : {},\n        \"distribute\" : {\n            \"android\" : {\n                \"permissions\" : [\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.VIBRATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_LOGS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_WIFI_STATE\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera.autofocus\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.ACCESS_NETWORK_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CAMERA\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.GET_ACCOUNTS\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.READ_PHONE_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.CHANGE_WIFI_STATE\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WAKE_LOCK\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.FLASHLIGHT\\\"/>\",\n                    \"<uses-feature android:name=\\\"android.hardware.camera\\\"/>\",\n                    \"<uses-permission android:name=\\\"android.permission.WRITE_SETTINGS\\\"/>\"\n                ]\n            },\n            \"ios\" : {},\n            \"sdkConfigs\" : {}\n        }\n    },\n    \"quickapp\" : {},\n    \"mp-weixin\" : {\n        \"appid\" : \"wx539eeaf0eab2dade\",\n        \"setting\" : {\n            \"urlCheck\" : false,\n            \"es6\" : true,\n            \"postcss\" : true\n        },\n        \"usingComponents\" : true,\n        \"permission\" : {\n            \"scope.userLocation\" : {\n                \"desc\" : \"你的位置信息将用于小程序位置接口的效果展示\"\n            }\n        },\n        \"plugins\" : {},\n        \"cloudfunctionRoot\" : \"functions/\"\n    },\n    \"mp-alipay\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-baidu\" : {\n        \"usingComponents\" : true\n    },\n    \"mp-toutiao\" : {\n        \"usingComponents\" : true\n    },\n    \"uniStatistics\" : {\n        \"enable\" : false\n    },\n    \"vueVersion\" : \"2\"\n}\n"}]
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+buffer sync supports: []
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+cancel last request:0
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+sendEvent willSaveTextDocument
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+diagnostics.$changeMany
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+cancel last request:0
+buffer sync supports: []
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+event: [{"range":{"end":{"character":19,"line":22},"start":{"character":19,"line":22}},"rangeLength":2,"rangeOffset":1194,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":23},"start":{"character":0,"line":23}},"rangeLength":108,"rangeOffset":1196,"text":"var t, a = require(\"../../@babel/runtime/helpers/defineProperty\"),\r\n\ts = getApp(),\r\n\te = null,\r\n\ti = null;\r\n"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":23,"offset":20},"end":{"line":23,"offset":20}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"var t, a = require(\"../../@babel/runtime/helpers/defineProperty\"),\r\n\ts = getApp(),\r\n\te = null,\r\n\ti = null;\r\n","start":{"line":24,"offset":1},"end":{"line":24,"offset":1}}]}]
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":27},"start":{"character":0,"line":27}},"rangeLength":48,"rangeOffset":1304,"text":"a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\r\n\t\t\"⁣\"])"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\r\n\t\t\"⁣\"])","start":{"line":28,"offset":1},"end":{"line":28,"offset":1}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":14,"line":24},"start":{"character":66,"line":23}},"rangeLength":16,"rangeOffset":1262,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":67},"end":{"line":25,"offset":15}}]}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":25,"line":23},"start":{"character":20,"line":23}},"rangeLength":5,"rangeOffset":1216,"text":""}]
+event: [{"range":{"end":{"character":20,"line":23},"start":{"character":20,"line":23}},"rangeLength":1,"rangeOffset":1216,"text":"@"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":21},"end":{"line":24,"offset":26}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 21, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"@","start":{"line":24,"offset":21},"end":{"line":24,"offset":21}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+cancel last request:0
+event: [{"range":{"end":{"character":19,"line":22},"start":{"character":19,"line":22}},"rangeLength":2,"rangeOffset":1194,"text":"\r\n"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":23,"offset":20},"end":{"line":23,"offset":20}}]}]
+event: [{"range":{"end":{"character":0,"line":23},"start":{"character":0,"line":23}},"rangeLength":1,"rangeOffset":1196,"text":"i"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 1, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"i","start":{"line":24,"offset":1},"end":{"line":24,"offset":1}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"__dirname","kind":"Variable","sortText":"15","filterText":"__dirname"}
+event: [{"range":{"end":{"character":1,"line":23},"start":{"character":1,"line":23}},"rangeLength":1,"rangeOffset":1197,"text":"m"}]
+event: [{"range":{"end":{"character":2,"line":23},"start":{"character":2,"line":23}},"rangeLength":1,"rangeOffset":1198,"text":"p"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"m","start":{"line":24,"offset":2},"end":{"line":24,"offset":2}}]}]
+event: [{"range":{"end":{"character":3,"line":23},"start":{"character":3,"line":23}},"rangeLength":1,"rangeOffset":1199,"text":"o"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"p","start":{"line":24,"offset":3},"end":{"line":24,"offset":3}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":24,"offset":4},"end":{"line":24,"offset":4}}]}]
+event: [{"range":{"end":{"character":4,"line":23},"start":{"character":4,"line":23}},"rangeLength":1,"rangeOffset":1200,"text":"r"}]
+event: [{"range":{"end":{"character":5,"line":23},"start":{"character":5,"line":23}},"rangeLength":1,"rangeOffset":1201,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"r","start":{"line":24,"offset":5},"end":{"line":24,"offset":5}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":24,"offset":6},"end":{"line":24,"offset":6}}]}]
+event: [{"range":{"end":{"character":6,"line":23},"start":{"character":6,"line":23}},"rangeLength":1,"rangeOffset":1202,"text":" "}]
+event: [{"range":{"end":{"character":7,"line":23},"start":{"character":7,"line":23}},"rangeLength":1,"rangeOffset":1203,"text":"a"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":" ","start":{"line":24,"offset":7},"end":{"line":24,"offset":7}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 8, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a","start":{"line":24,"offset":8},"end":{"line":24,"offset":8}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+event: [{"range":{"end":{"character":8,"line":23},"start":{"character":8,"line":23}},"rangeLength":1,"rangeOffset":1204,"text":" "}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":" ","start":{"line":24,"offset":9},"end":{"line":24,"offset":9}}]}]
+event: [{"range":{"end":{"character":9,"line":23},"start":{"character":9,"line":23}},"rangeLength":1,"rangeOffset":1205,"text":"f"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 10, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"f","start":{"line":24,"offset":10},"end":{"line":24,"offset":10}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+event: [{"range":{"end":{"character":10,"line":23},"start":{"character":10,"line":23}},"rangeLength":1,"rangeOffset":1206,"text":"r"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 11, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"r","start":{"line":24,"offset":11},"end":{"line":24,"offset":11}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+event: [{"range":{"end":{"character":11,"line":23},"start":{"character":11,"line":23}},"rangeLength":1,"rangeOffset":1207,"text":"o"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 12, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":24,"offset":12},"end":{"line":24,"offset":12}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+event: [{"range":{"end":{"character":12,"line":23},"start":{"character":12,"line":23}},"rangeLength":1,"rangeOffset":1208,"text":"m"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 13, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"m","start":{"line":24,"offset":13},"end":{"line":24,"offset":13}}]}]
+event: [{"range":{"end":{"character":13,"line":23},"start":{"character":9,"line":23}},"rangeLength":4,"rangeOffset":1205,"text":""}]
+event: [{"range":{"end":{"character":9,"line":23},"start":{"character":9,"line":23}},"rangeLength":21,"rangeOffset":1205,"text":"import foo from \"bar\""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":10},"end":{"line":24,"offset":14}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"import foo from \"bar\"","start":{"line":24,"offset":10},"end":{"line":24,"offset":10}}]}]
+event: [{"range":{"end":{"character":8,"line":23},"start":{"character":0,"line":23}},"rangeLength":8,"rangeOffset":1196,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":1},"end":{"line":24,"offset":9}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":11,"line":23},"start":{"character":8,"line":23}},"rangeLength":3,"rangeOffset":1204,"text":""}]
+event: [{"range":{"end":{"character":8,"line":23},"start":{"character":8,"line":23}},"rangeLength":1,"rangeOffset":1204,"text":"a"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":9},"end":{"line":24,"offset":12}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 9, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a","start":{"line":24,"offset":9},"end":{"line":24,"offset":9}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+cancel last request:0
+event: [{"range":{"end":{"character":1,"line":23},"start":{"character":0,"line":23}},"rangeLength":1,"rangeOffset":1196,"text":""}]
+event: [{"range":{"end":{"character":0,"line":23},"start":{"character":0,"line":23}},"rangeLength":1,"rangeOffset":1196,"text":" "}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":1},"end":{"line":24,"offset":2}}]}]
+event: [{"range":{"end":{"character":1,"line":23},"start":{"character":0,"line":23}},"rangeLength":1,"rangeOffset":1196,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":" ","start":{"line":24,"offset":1},"end":{"line":24,"offset":1}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":1},"end":{"line":24,"offset":2}}]}]
+event: [{"range":{"end":{"character":18,"line":23},"start":{"character":15,"line":23}},"rangeLength":3,"rangeOffset":1211,"text":""}]
+event: [{"range":{"end":{"character":15,"line":23},"start":{"character":15,"line":23}},"rangeLength":1,"rangeOffset":1211,"text":"@"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":16},"end":{"line":24,"offset":19}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 16, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"@","start":{"line":24,"offset":16},"end":{"line":24,"offset":16}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"../../@babel/runtime/helpers/arrayLikeToArray.js","kind":"Property","detail":"../../@babel/runtime/helpers/arrayLikeToArray.js","documentation":{"kind":"markdown","value":"h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/arrayLikeToArray.js"},"sortText":"bz5`z_../../@babel/runtime/helpers/arrayLikeToArray.js","filterText":"../../@babel/runtime/helpers/arrayLikeToArray.js","insertText":"../../@babel/runtime/helpers/arrayLikeToArray.js"}
+event: [{"range":{"end":{"character":16,"line":23},"start":{"character":16,"line":23}},"rangeLength":1,"rangeOffset":1212,"text":"/"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"/","start":{"line":24,"offset":17},"end":{"line":24,"offset":17}}]}]
+event: [{"range":{"end":{"character":17,"line":23},"start":{"character":17,"line":23}},"rangeLength":1,"rangeOffset":1213,"text":"@"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"@","start":{"line":24,"offset":18},"end":{"line":24,"offset":18}}]}]
+event: [{"range":{"end":{"character":18,"line":23},"start":{"character":15,"line":23}},"rangeLength":3,"rangeOffset":1211,"text":""}]
+event: [{"range":{"end":{"character":15,"line":23},"start":{"character":15,"line":23}},"rangeLength":31,"rangeOffset":1211,"text":"@/@babel/runtime/regenerator.js"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":16},"end":{"line":24,"offset":19}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"@/@babel/runtime/regenerator.js","start":{"line":24,"offset":16},"end":{"line":24,"offset":16}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":46,"line":23},"start":{"character":32,"line":23}},"rangeLength":14,"rangeOffset":1228,"text":""}]
+event: [{"range":{"end":{"character":32,"line":23},"start":{"character":32,"line":23}},"rangeLength":22,"rangeOffset":1228,"text":"helpers/defineProperty"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":33},"end":{"line":24,"offset":47}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"helpers/defineProperty","start":{"line":24,"offset":33},"end":{"line":24,"offset":33}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":54,"line":23},"start":{"character":54,"line":23}},"rangeLength":3,"rangeOffset":1250,"text":"。"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"。","start":{"line":24,"offset":55},"end":{"line":24,"offset":55}}]}]
+event: [{"range":{"end":{"character":55,"line":23},"start":{"character":55,"line":23}},"rangeLength":1,"rangeOffset":1253,"text":"j"}]
+event: [{"range":{"end":{"character":56,"line":23},"start":{"character":56,"line":23}},"rangeLength":1,"rangeOffset":1254,"text":"s"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"j","start":{"line":24,"offset":56},"end":{"line":24,"offset":56}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 57, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":24,"offset":57},"end":{"line":24,"offset":57}}]}]
+event: [{"range":{"end":{"character":57,"line":23},"start":{"character":56,"line":23}},"rangeLength":1,"rangeOffset":1254,"text":""}]
+event: [{"range":{"end":{"character":56,"line":23},"start":{"character":55,"line":23}},"rangeLength":1,"rangeOffset":1253,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":57},"end":{"line":24,"offset":58}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","kind":"Property","detail":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","documentation":{"kind":"markdown","value":"h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/arrayLikeToArray.js"},"sortText":"ba9yz_@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","filterText":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","insertText":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js"}
+event: [{"range":{"end":{"character":55,"line":23},"start":{"character":54,"line":23}},"rangeLength":3,"rangeOffset":1250,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":56},"end":{"line":24,"offset":57}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":55},"end":{"line":24,"offset":56}}]}]
+event: [{"range":{"end":{"character":54,"line":23},"start":{"character":54,"line":23}},"rangeLength":1,"rangeOffset":1250,"text":"."}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 55, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":24,"offset":55},"end":{"line":24,"offset":55}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","kind":"Property","detail":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","documentation":{"kind":"markdown","value":"h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/arrayLikeToArray.js"},"sortText":"ba9yz_@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","filterText":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js","insertText":"@/@babel/runtime/helpers/../../@babel/runtime/helpers/arrayLikeToArray.js"}
+event: [{"range":{"end":{"character":55,"line":23},"start":{"character":15,"line":23}},"rangeLength":40,"rangeOffset":1211,"text":""}]
+event: [{"range":{"end":{"character":15,"line":23},"start":{"character":15,"line":23}},"rangeLength":42,"rangeOffset":1211,"text":"@/@babel/runtime/helpers/defineProperty.js"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":24,"offset":16},"end":{"line":24,"offset":56}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"@/@babel/runtime/helpers/defineProperty.js","start":{"line":24,"offset":16},"end":{"line":24,"offset":16}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":62,"line":24},"start":{"character":6,"line":24}},"rangeLength":56,"rangeOffset":1262,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":25,"offset":7},"end":{"line":25,"offset":63}}]}]
+event: [{"range":{"end":{"character":7,"line":28},"start":{"character":7,"line":28}},"rangeLength":2,"rangeOffset":1336,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":29},"start":{"character":0,"line":29}},"rangeLength":2,"rangeOffset":1338,"text":"\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":29,"offset":8},"end":{"line":29,"offset":8}}]}]
+event: [{"range":{"end":{"character":2,"line":29},"start":{"character":2,"line":29}},"rangeLength":1,"rangeOffset":1340,"text":"c"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t","start":{"line":30,"offset":1},"end":{"line":30,"offset":1}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 3, line: 29 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"c","start":{"line":30,"offset":3},"end":{"line":30,"offset":3}}]}]
+event: [{"range":{"end":{"character":3,"line":29},"start":{"character":3,"line":29}},"rangeLength":1,"rangeOffset":1341,"text":"o"}]
+event: [{"range":{"end":{"character":4,"line":29},"start":{"character":4,"line":29}},"rangeLength":1,"rangeOffset":1342,"text":"n"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":30,"offset":4},"end":{"line":30,"offset":4}}]}]
+event: [{"range":{"end":{"character":5,"line":29},"start":{"character":5,"line":29}},"rangeLength":1,"rangeOffset":1343,"text":"s"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"n","start":{"line":30,"offset":5},"end":{"line":30,"offset":5}}]}]
+event: [{"range":{"end":{"character":6,"line":29},"start":{"character":6,"line":29}},"rangeLength":1,"rangeOffset":1344,"text":"o"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":30,"offset":6},"end":{"line":30,"offset":6}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"__dirname","kind":"Variable","sortText":"15","filterText":"__dirname"}
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":30,"offset":7},"end":{"line":30,"offset":7}}]}]
+event: [{"range":{"end":{"character":7,"line":29},"start":{"character":2,"line":29}},"rangeLength":5,"rangeOffset":1340,"text":""}]
+event: [{"range":{"end":{"character":2,"line":29},"start":{"character":2,"line":29}},"rangeLength":7,"rangeOffset":1340,"text":"console"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":30,"offset":3},"end":{"line":30,"offset":8}}]}]
+event: [{"range":{"end":{"character":9,"line":29},"start":{"character":9,"line":29}},"rangeLength":1,"rangeOffset":1347,"text":"."}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"console","start":{"line":30,"offset":3},"end":{"line":30,"offset":3}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 10, line: 29 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":30,"offset":10},"end":{"line":30,"offset":10}}]}]
+event: [{"range":{"end":{"character":10,"line":29},"start":{"character":10,"line":29}},"rangeLength":1,"rangeOffset":1348,"text":"l"}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"a","kind":0,"sortText":"17","filterText":".a","insertText":".a"}
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"l","start":{"line":30,"offset":11},"end":{"line":30,"offset":11}}]}]
+event: [{"range":{"end":{"character":11,"line":29},"start":{"character":11,"line":29}},"rangeLength":1,"rangeOffset":1349,"text":"o"}]
+event: [{"range":{"end":{"character":12,"line":29},"start":{"character":12,"line":29}},"rangeLength":1,"rangeOffset":1350,"text":"g"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":30,"offset":12},"end":{"line":30,"offset":12}}]}]
+event: [{"range":{"end":{"character":13,"line":29},"start":{"character":13,"line":29}},"rangeLength":1,"rangeOffset":1351,"text":"("}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"g","start":{"line":30,"offset":13},"end":{"line":30,"offset":13}}]}]
+event: [{"range":{"end":{"character":14,"line":29},"start":{"character":13,"line":29}},"rangeLength":1,"rangeOffset":1351,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"(","start":{"line":30,"offset":14},"end":{"line":30,"offset":14}}]}]
+event: [{"range":{"end":{"character":13,"line":29},"start":{"character":13,"line":29}},"rangeLength":2,"rangeOffset":1351,"text":"()"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":30,"offset":14},"end":{"line":30,"offset":15}}]}]
+cancel last request:0
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"()","start":{"line":30,"offset":14},"end":{"line":30,"offset":14}}]}]
+event: [{"range":{"end":{"character":14,"line":29},"start":{"character":14,"line":29}},"rangeLength":48,"rangeOffset":1352,"text":"a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\r\n\t\t\"⁣\"])"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\r\n\t\t\"⁣\"])","start":{"line":30,"offset":15},"end":{"line":30,"offset":15}}]}]
+cancel last request:0
+diagnostics.$changeMany
+buffer sync supports: []
+event: [{"range":{"end":{"character":2,"line":27},"start":{"character":0,"line":27}},"rangeLength":2,"rangeOffset":1288,"text":""}]
+event: [{"range":{"end":{"character":0,"line":27},"start":{"character":0,"line":27}},"rangeLength":1,"rangeOffset":1288,"text":"\t"}]
+[LanguageServerIndex] [Error - 18:20:40] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 18:20:40] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":1,"line":27},"start":{"character":0,"line":27}},"rangeLength":1,"rangeOffset":1288,"text":""}]
+[LanguageServerIndex] [Error - 18:20:40] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":2,"line":28},"start":{"character":43,"line":27}},"rangeLength":4,"rangeOffset":1337,"text":""}]
+[LanguageServerIndex] [Error - 18:20:42] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":49,"line":27},"start":{"character":49,"line":27}},"rangeLength":3,"rangeOffset":1345,"text":"；"}]
+event: [{"range":{"end":{"character":50,"line":27},"start":{"character":49,"line":27}},"rangeLength":3,"rangeOffset":1345,"text":""}]
+[LanguageServerIndex] [Error - 18:20:44] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":49,"line":27},"start":{"character":49,"line":27}},"rangeLength":1,"rangeOffset":1345,"text":";"}]
+[LanguageServerIndex] [Error - 18:20:44] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 18:20:44] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+sendEvent willSaveTextDocument
+sendEvent willSaveTextDocument
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+[{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}},{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}},{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}}]
+[{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+[{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}},{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}},{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}}]
+[{"originSelectionRange":[{"line":23,"character":15},{"line":23,"character":57}],"targetRange":[{"line":0,"character":0},{"line":0,"character":0}],"targetUri":{"$mid":1,"path":"/h:/Project/gaimingWeChatMiniProgram-master_uni/@babel/runtime/helpers/defineProperty.js","scheme":"file"}}]
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+cancel last request:0
+Plugin [chrome-base] has already activated,won't activate again.
+Error: connect ECONNREFUSED 127.0.0.1:9777
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9777
+}
+event: [{"range":{"end":{"character":50,"line":27},"start":{"character":50,"line":27}},"rangeLength":60,"rangeOffset":1346,"text":"\r\nconsole.log(a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\"⁣\"]));"}]
+[LanguageServerIndex] [Error - 18:23:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\nconsole.log(a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\"⁣\"]));","start":{"line":28,"offset":51},"end":{"line":28,"offset":51}}]}]
+event: [{"range":{"end":{"character":50,"line":28},"start":{"character":50,"line":28}},"rangeLength":60,"rangeOffset":1406,"text":"\r\nconsole.log(a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\"⁣\"]));"}]
+[LanguageServerIndex] [Error - 18:23:50] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\nconsole.log(a(t, \"chongfu\", [\"⁠\", \"⁡\", \"⁢\",\"⁣\"]));","start":{"line":29,"offset":51},"end":{"line":29,"offset":51}}]}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":48,"line":27},"start":{"character":12,"line":27}},"rangeLength":44,"rangeOffset":1300,"text":""}]
+[LanguageServerIndex] [Error - 18:23:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":12,"line":27},"start":{"character":12,"line":27}},"rangeLength":1,"rangeOffset":1300,"text":"'"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":28,"offset":13},"end":{"line":28,"offset":49}}]}]
+event: [{"range":{"end":{"character":13,"line":27},"start":{"character":12,"line":27}},"rangeLength":1,"rangeOffset":1300,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"'","start":{"line":28,"offset":13},"end":{"line":28,"offset":13}}]}]
+[LanguageServerIndex] [Error - 18:23:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":12,"line":27},"start":{"character":12,"line":27}},"rangeLength":2,"rangeOffset":1300,"text":"''"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":28,"offset":13},"end":{"line":28,"offset":14}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 13, line: 27 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"''","start":{"line":28,"offset":13},"end":{"line":28,"offset":13}}]}]
+[LanguageServerIndex] [Error - 18:23:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 18:23:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+event: [{"range":{"end":{"character":13,"line":27},"start":{"character":13,"line":27}},"rangeLength":1,"rangeOffset":1301,"text":"1"}]
+[LanguageServerIndex] [Error - 18:23:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":14,"line":27},"start":{"character":14,"line":27}},"rangeLength":1,"rangeOffset":1302,"text":"1"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"1","start":{"line":28,"offset":14},"end":{"line":28,"offset":14}}]}]
+[LanguageServerIndex] [Error - 18:23:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":15,"line":27},"start":{"character":15,"line":27}},"rangeLength":1,"rangeOffset":1303,"text":"1"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"1","start":{"line":28,"offset":15},"end":{"line":28,"offset":15}}]}]
+[LanguageServerIndex] [Error - 18:23:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":16,"line":27},"start":{"character":16,"line":27}},"rangeLength":1,"rangeOffset":1304,"text":"1"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"1","start":{"line":28,"offset":16},"end":{"line":28,"offset":16}}]}]
+[LanguageServerIndex] [Error - 18:23:54] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"1","start":{"line":28,"offset":17},"end":{"line":28,"offset":17}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":49,"line":29},"start":{"character":12,"line":29}},"rangeLength":45,"rangeOffset":1382,"text":""}]
+[LanguageServerIndex] [Error - 18:23:57] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":30,"offset":13},"end":{"line":30,"offset":50}}]}]
+event: [{"range":{"end":{"character":12,"line":29},"start":{"character":12,"line":29}},"rangeLength":1,"rangeOffset":1382,"text":")"}]
+[LanguageServerIndex] [Error - 18:23:58] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":")","start":{"line":30,"offset":13},"end":{"line":30,"offset":13}}]}]
+event: [{"range":{"end":{"character":12,"line":29},"start":{"character":12,"line":29}},"rangeLength":1,"rangeOffset":1382,"text":"'"}]
+event: [{"range":{"end":{"character":13,"line":29},"start":{"character":12,"line":29}},"rangeLength":1,"rangeOffset":1382,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"'","start":{"line":30,"offset":13},"end":{"line":30,"offset":13}}]}]
+[LanguageServerIndex] [Error - 18:23:59] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 18:23:59] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":12,"line":29},"start":{"character":12,"line":29}},"rangeLength":2,"rangeOffset":1382,"text":"''"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":30,"offset":13},"end":{"line":30,"offset":14}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 13, line: 29 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"''","start":{"line":30,"offset":13},"end":{"line":30,"offset":13}}]}]
+[LanguageServerIndex] [Error - 18:23:59] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+event: [{"range":{"end":{"character":13,"line":29},"start":{"character":13,"line":29}},"rangeLength":1,"rangeOffset":1383,"text":"2"}]
+[LanguageServerIndex] [Error - 18:24:01] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":14,"line":29},"start":{"character":14,"line":29}},"rangeLength":1,"rangeOffset":1384,"text":"2"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"2","start":{"line":30,"offset":14},"end":{"line":30,"offset":14}}]}]
+[LanguageServerIndex] [Error - 18:24:01] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":15,"line":29},"start":{"character":15,"line":29}},"rangeLength":1,"rangeOffset":1385,"text":"2"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"2","start":{"line":30,"offset":15},"end":{"line":30,"offset":15}}]}]
+[LanguageServerIndex] [Error - 18:24:01] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":16,"line":29},"start":{"character":16,"line":29}},"rangeLength":1,"rangeOffset":1386,"text":"2"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"2","start":{"line":30,"offset":16},"end":{"line":30,"offset":16}}]}]
+[LanguageServerIndex] [Error - 18:24:01] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":17,"line":29},"start":{"character":17,"line":29}},"rangeLength":1,"rangeOffset":1387,"text":"2"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"2","start":{"line":30,"offset":17},"end":{"line":30,"offset":17}}]}]
+[LanguageServerIndex] [Error - 18:24:02] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":18,"line":29},"start":{"character":18,"line":29}},"rangeLength":1,"rangeOffset":1388,"text":"2"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"2","start":{"line":30,"offset":18},"end":{"line":30,"offset":18}}]}]
+[LanguageServerIndex] [Error - 18:24:02] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+sendEvent willSaveTextDocument
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"2","start":{"line":30,"offset":19},"end":{"line":30,"offset":19}}]}]
+event: [{"range":{"end":{"character":19,"line":29},"start":{"character":19,"line":29}},"rangeLength":1,"rangeOffset":1389,"text":"s"}]
+[LanguageServerIndex] [Error - 18:24:03] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 20, line: 29 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":30,"offset":20},"end":{"line":30,"offset":20}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":8,"line":23},"start":{"character":8,"line":23}},"rangeLength":1,"rangeOffset":1204,"text":"s"}]
+[LanguageServerIndex] [Error - 18:24:32] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 9, line: 23 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":24,"offset":9},"end":{"line":24,"offset":9}}]}]
+event: [{"range":{"end":{"character":9,"line":23},"start":{"character":9,"line":23}},"rangeLength":1,"rangeOffset":1205,"text":"d"}]
+[LanguageServerIndex] [Error - 18:24:32] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+isIncomplete: false
+fromProvider: 1045
+firstItem: undefined
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"d","start":{"line":24,"offset":10},"end":{"line":24,"offset":10}}]}]
+event: [{"range":{"end":{"character":13,"line":28},"start":{"character":13,"line":28}},"rangeLength":1,"rangeOffset":1325,"text":"s"}]
+[LanguageServerIndex] [Error - 18:24:34] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 14, line: 28 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":29,"offset":14},"end":{"line":29,"offset":14}}]}]
+event: [{"range":{"end":{"character":14,"line":28},"start":{"character":14,"line":28}},"rangeLength":1,"rangeOffset":1326,"text":"d"}]
+[LanguageServerIndex] [Error - 18:24:34] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"d","start":{"line":29,"offset":15},"end":{"line":29,"offset":15}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"__dirname","kind":"Variable","sortText":"15","filterText":"__dirname"}
+sendEvent willSaveTextDocument
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":14,"line":112},"start":{"character":14,"line":112}},"rangeLength":2,"rangeOffset":3521,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":113},"start":{"character":0,"line":113}},"rangeLength":2,"rangeOffset":3523,"text":"\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":113,"offset":15},"end":{"line":113,"offset":15}}]}]
+event: [{"range":{"end":{"character":2,"line":113},"start":{"character":2,"line":113}},"rangeLength":1826,"rangeOffset":3525,"text":"function chongfuList(t) {\n\t\tnameList = [];\n\t\tfor (var a = 0; a < 20; a++) {\n\t\t\tfor (var s, e = inputname, i = -1, n = -1, h = -1, l = -1, o =\n\t\t\t\t\t\"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\", r = 0, u = 0; u < e\n\t\t\t\t.length; u++) {\n\t\t\t\tfor (var m = e.charAt(u), d = !1, g = 0; g < o.length; g++) m == o.charAt(g) && (d = !0);\n\t\t\t\tr += d ? 1 : 2;\n\t\t\t}\n\t\t\tswitch (r) {\n\t\t\t\tcase 1:\n\t\t\t\tcase 2:\n\t\t\t\t\tl = Math.floor(Math.random() * e.length), h = Math.floor(Math.random() * e.length),\n\t\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\n\t\t\t\t\tbreak;\n\n\t\t\t\tcase 3:\n\t\t\t\tcase 4:\n\t\t\t\t\th = Math.floor(Math.random() * e.length), n = Math.floor(Math.random() * e.length),\n\t\t\t\t\t\ti = Math.floor(Math.random() * e.length);\n\t\t\t\t\tbreak;\n\n\t\t\t\tcase 5:\n\t\t\t\tcase 6:\n\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\n\t\t\t\t\tbreak;\n\n\t\t\t\tcase 7:\n\t\t\t\tcase 8:\n\t\t\t\t\ti = Math.floor(Math.random() * e.length);\n\t\t\t}\n\t\t\ts = Math.floor(Math.random() * e.length);\n\t\t\tfor (var c = \"\", _ = 0; _ < e.length; _++) {\n\t\t\t\tvar p = 0;\n\t\t\t\tfor (_ == s && p++, _ == i && p++, _ == n && p++, _ == h && p++, _ == l && p++; p > 0;)\n\t\t\t\t\tif (p--,\n\t\t\t\t\t\t1 == gai_type) {\n\t\t\t\t\t\tvar b = Math.floor(11 * Math.random());\n\t\t\t\t\t\tc += chongfu_android[b];\n\t\t\t\t\t} else if (2 == gai_type) c += \"̵\";\n\t\t\t\telse {\n\t\t\t\t\tb = Math.floor(4 * Math.random());\n\t\t\t\t\tc += chongfu[b];\n\t\t\t\t}\n\t\t\t\t0 == _ && 2 == gai_type ? c = e.charAt(_) + c : c += e.charAt(_);\n\t\t\t}\n\t\t\tfor (var k = !1, f = 0; f < nameList.length; f++)\n\t\t\t\tif (c == nameList[f].message) {\n\t\t\t\t\tk = !0;\n\t\t\t\t\tbreak;\n\t\t\t\t}\n\t\t\tif (!k) {\n\t\t\t\tvar w = {\n\t\t\t\t\tstatus: 0,\n\t\t\t\t\ttip: \"\",\n\t\t\t\t\tmessage: c\n\t\t\t\t};\n\t\t\t\tnameList.push(w);\n\t\t\t}\n\t\t}\n\t\tvar z = Math.floor(Math.random() * nameList.length),\n\t\t\tv = nameList[z].message;\n\t\tconsole.log(v)\n    }"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t","start":{"line":114,"offset":1},"end":{"line":114,"offset":1}}]}]
+event: [{"range":{"end":{"character":5,"line":176},"start":{"character":2,"line":113}},"rangeLength":1826,"rangeOffset":3525,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"function chongfuList(t) {\n\t\tnameList = [];\n\t\tfor (var a = 0; a < 20; a++) {\n\t\t\tfor (var s, e = inputname, i = -1, n = -1, h = -1, l = -1, o =\n\t\t\t\t\t\"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\", r = 0, u = 0; u < e\n\t\t\t\t.length; u++) {\n\t\t\t\tfor (var m = e.charAt(u), d = !1, g = 0; g < o.length; g++) m == o.charAt(g) && (d = !0);\n\t\t\t\tr += d ? 1 : 2;\n\t\t\t}\n\t\t\tswitch (r) {\n\t\t\t\tcase 1:\n\t\t\t\tcase 2:\n\t\t\t\t\tl = Math.floor(Math.random() * e.length), h = Math.floor(Math.random() * e.length),\n\t\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\n\t\t\t\t\tbreak;\n\n\t\t\t\tcase 3:\n\t\t\t\tcase 4:\n\t\t\t\t\th = Math.floor(Math.random() * e.length), n = Math.floor(Math.random() * e.length),\n\t\t\t\t\t\ti = Math.floor(Math.random() * e.length);\n\t\t\t\t\tbreak;\n\n\t\t\t\tcase 5:\n\t\t\t\tcase 6:\n\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\n\t\t\t\t\tbreak;\n\n\t\t\t\tcase 7:\n\t\t\t\tcase 8:\n\t\t\t\t\ti = Math.floor(Math.random() * e.length);\n\t\t\t}\n\t\t\ts = Math.floor(Math.random() * e.length);\n\t\t\tfor (var c = \"\", _ = 0; _ < e.length; _++) {\n\t\t\t\tvar p = 0;\n\t\t\t\tfor (_ == s && p++, _ == i && p++, _ == n && p++, _ == h && p++, _ == l && p++; p > 0;)\n\t\t\t\t\tif (p--,\n\t\t\t\t\t\t1 == gai_type) {\n\t\t\t\t\t\tvar b = Math.floor(11 * Math.random());\n\t\t\t\t\t\tc += chongfu_android[b];\n\t\t\t\t\t} else if (2 == gai_type) c += \"̵\";\n\t\t\t\telse {\n\t\t\t\t\tb = Math.floor(4 * Math.random());\n\t\t\t\t\tc += chongfu[b];\n\t\t\t\t}\n\t\t\t\t0 == _ && 2 == gai_type ? c = e.charAt(_) + c : c += e.charAt(_);\n\t\t\t}\n\t\t\tfor (var k = !1, f = 0; f < nameList.length; f++)\n\t\t\t\tif (c == nameList[f].message) {\n\t\t\t\t\tk = !0;\n\t\t\t\t\tbreak;\n\t\t\t\t}\n\t\t\tif (!k) {\n\t\t\t\tvar w = {\n\t\t\t\t\tstatus: 0,\n\t\t\t\t\ttip: \"\",\n\t\t\t\t\tmessage: c\n\t\t\t\t};\n\t\t\t\tnameList.push(w);\n\t\t\t}\n\t\t}\n\t\tvar z = Math.floor(Math.random() * nameList.length),\n\t\t\tv = nameList[z].message;\n\t\tconsole.log(v)\n    }","start":{"line":114,"offset":3},"end":{"line":114,"offset":3}}]}]
+event: [{"range":{"end":{"character":2,"line":113},"start":{"character":2,"line":113}},"rangeLength":2015,"rangeOffset":3525,"text":"function chongfuList(t) {\r\n\t\t\t\tnameList = [];\r\n\t\t\t\tfor (var a = 0; a < 20; a++) {\r\n\t\t\t\t\tfor (var s, e = inputname, i = -1, n = -1, h = -1, l = -1, o =\r\n\t\t\t\t\t\t\t\"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\", r = 0, u = 0; u < e\r\n\t\t\t\t\t\t.length; u++) {\r\n\t\t\t\t\t\tfor (var m = e.charAt(u), d = !1, g = 0; g < o.length; g++) m == o.charAt(g) && (d = !0);\r\n\t\t\t\t\t\tr += d ? 1 : 2;\r\n\t\t\t\t\t}\r\n\t\t\t\t\tswitch (r) {\r\n\t\t\t\t\t\tcase 1:\r\n\t\t\t\t\t\tcase 2:\r\n\t\t\t\t\t\t\tl = Math.floor(Math.random() * e.length), h = Math.floor(Math.random() * e.length),\r\n\t\t\t\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\r\n\t\t\t\t\t\tcase 3:\r\n\t\t\t\t\t\tcase 4:\r\n\t\t\t\t\t\t\th = Math.floor(Math.random() * e.length), n = Math.floor(Math.random() * e.length),\r\n\t\t\t\t\t\t\t\ti = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\r\n\t\t\t\t\t\tcase 5:\r\n\t\t\t\t\t\tcase 6:\r\n\t\t\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\r\n\t\t\t\t\t\tcase 7:\r\n\t\t\t\t\t\tcase 8:\r\n\t\t\t\t\t\t\ti = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t}\r\n\t\t\t\t\ts = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\tfor (var c = \"\", _ = 0; _ < e.length; _++) {\r\n\t\t\t\t\t\tvar p = 0;\r\n\t\t\t\t\t\tfor (_ == s && p++, _ == i && p++, _ == n && p++, _ == h && p++, _ == l && p++; p > 0;)\r\n\t\t\t\t\t\t\tif (p--,\r\n\t\t\t\t\t\t\t\t1 == gai_type) {\r\n\t\t\t\t\t\t\t\tvar b = Math.floor(11 * Math.random());\r\n\t\t\t\t\t\t\t\tc += chongfu_android[b];\r\n\t\t\t\t\t\t\t} else if (2 == gai_type) c += \"̵\";\r\n\t\t\t\t\t\telse {\r\n\t\t\t\t\t\t\tb = Math.floor(4 * Math.random());\r\n\t\t\t\t\t\t\tc += chongfu[b];\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t\t0 == _ && 2 == gai_type ? c = e.charAt(_) + c : c += e.charAt(_);\r\n\t\t\t\t\t}\r\n\t\t\t\t\tfor (var k = !1, f = 0; f < nameList.length; f++)\r\n\t\t\t\t\t\tif (c == nameList[f].message) {\r\n\t\t\t\t\t\t\tk = !0;\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\tif (!k) {\r\n\t\t\t\t\t\tvar w = {\r\n\t\t\t\t\t\t\tstatus: 0,\r\n\t\t\t\t\t\t\ttip: \"\",\r\n\t\t\t\t\t\t\tmessage: c\r\n\t\t\t\t\t\t};\r\n\t\t\t\t\t\tnameList.push(w);\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\tvar z = Math.floor(Math.random() * nameList.length),\r\n\t\t\t\t\tv = nameList[z].message;\r\n\t\t\t\tconsole.log(v)\r\n\t\t    }"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":3},"end":{"line":177,"offset":6}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"function chongfuList(t) {\r\n\t\t\t\tnameList = [];\r\n\t\t\t\tfor (var a = 0; a < 20; a++) {\r\n\t\t\t\t\tfor (var s, e = inputname, i = -1, n = -1, h = -1, l = -1, o =\r\n\t\t\t\t\t\t\t\"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\", r = 0, u = 0; u < e\r\n\t\t\t\t\t\t.length; u++) {\r\n\t\t\t\t\t\tfor (var m = e.charAt(u), d = !1, g = 0; g < o.length; g++) m == o.charAt(g) && (d = !0);\r\n\t\t\t\t\t\tr += d ? 1 : 2;\r\n\t\t\t\t\t}\r\n\t\t\t\t\tswitch (r) {\r\n\t\t\t\t\t\tcase 1:\r\n\t\t\t\t\t\tcase 2:\r\n\t\t\t\t\t\t\tl = Math.floor(Math.random() * e.length), h = Math.floor(Math.random() * e.length),\r\n\t\t\t\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\r\n\t\t\t\t\t\tcase 3:\r\n\t\t\t\t\t\tcase 4:\r\n\t\t\t\t\t\t\th = Math.floor(Math.random() * e.length), n = Math.floor(Math.random() * e.length),\r\n\t\t\t\t\t\t\t\ti = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\r\n\t\t\t\t\t\tcase 5:\r\n\t\t\t\t\t\tcase 6:\r\n\t\t\t\t\t\t\tn = Math.floor(Math.random() * e.length), i = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\r\n\t\t\t\t\t\tcase 7:\r\n\t\t\t\t\t\tcase 8:\r\n\t\t\t\t\t\t\ti = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\t}\r\n\t\t\t\t\ts = Math.floor(Math.random() * e.length);\r\n\t\t\t\t\tfor (var c = \"\", _ = 0; _ < e.length; _++) {\r\n\t\t\t\t\t\tvar p = 0;\r\n\t\t\t\t\t\tfor (_ == s && p++, _ == i && p++, _ == n && p++, _ == h && p++, _ == l && p++; p > 0;)\r\n\t\t\t\t\t\t\tif (p--,\r\n\t\t\t\t\t\t\t\t1 == gai_type) {\r\n\t\t\t\t\t\t\t\tvar b = Math.floor(11 * Math.random());\r\n\t\t\t\t\t\t\t\tc += chongfu_android[b];\r\n\t\t\t\t\t\t\t} else if (2 == gai_type) c += \"̵\";\r\n\t\t\t\t\t\telse {\r\n\t\t\t\t\t\t\tb = Math.floor(4 * Math.random());\r\n\t\t\t\t\t\t\tc += chongfu[b];\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t\t0 == _ && 2 == gai_type ? c = e.charAt(_) + c : c += e.charAt(_);\r\n\t\t\t\t\t}\r\n\t\t\t\t\tfor (var k = !1, f = 0; f < nameList.length; f++)\r\n\t\t\t\t\t\tif (c == nameList[f].message) {\r\n\t\t\t\t\t\t\tk = !0;\r\n\t\t\t\t\t\t\tbreak;\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\tif (!k) {\r\n\t\t\t\t\t\tvar w = {\r\n\t\t\t\t\t\t\tstatus: 0,\r\n\t\t\t\t\t\t\ttip: \"\",\r\n\t\t\t\t\t\t\tmessage: c\r\n\t\t\t\t\t\t};\r\n\t\t\t\t\t\tnameList.push(w);\r\n\t\t\t\t\t}\r\n\t\t\t\t}\r\n\t\t\t\tvar z = Math.floor(Math.random() * nameList.length),\r\n\t\t\t\t\tv = nameList[z].message;\r\n\t\t\t\tconsole.log(v)\r\n\t\t    }","start":{"line":114,"offset":3},"end":{"line":114,"offset":3}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":7,"line":176},"start":{"character":7,"line":176}},"rangeLength":1,"rangeOffset":5540,"text":","}]
+cancel last request:0
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":",","start":{"line":177,"offset":8},"end":{"line":177,"offset":8}}]}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":10,"line":113},"start":{"character":2,"line":113}},"rangeLength":8,"rangeOffset":3525,"text":""}]
+event: [{"range":{"end":{"character":3,"line":113},"start":{"character":2,"line":113}},"rangeLength":1,"rangeOffset":3525,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":3},"end":{"line":114,"offset":11}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":3},"end":{"line":114,"offset":4}}]}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":18,"line":113},"start":{"character":18,"line":113}},"rangeLength":2,"rangeOffset":3541,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":114},"start":{"character":0,"line":114}},"rangeLength":3,"rangeOffset":3543,"text":"\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":114,"offset":19},"end":{"line":114,"offset":19}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t","start":{"line":115,"offset":1},"end":{"line":115,"offset":1}}]}]
+event: [{"range":{"end":{"character":3,"line":114},"start":{"character":3,"line":114}},"rangeLength":1,"rangeOffset":3546,"text":"l"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 4, line: 114 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"l","start":{"line":115,"offset":4},"end":{"line":115,"offset":4}}]}]
+event: [{"range":{"end":{"character":4,"line":114},"start":{"character":4,"line":114}},"rangeLength":1,"rangeOffset":3547,"text":"e"}]
+event: [{"range":{"end":{"character":5,"line":114},"start":{"character":5,"line":114}},"rangeLength":1,"rangeOffset":3548,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"e","start":{"line":115,"offset":5},"end":{"line":115,"offset":5}}]}]
+event: [{"range":{"end":{"character":6,"line":114},"start":{"character":6,"line":114}},"rangeLength":1,"rangeOffset":3549,"text":" "}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":115,"offset":6},"end":{"line":115,"offset":6}}]}]
+event: [{"range":{"end":{"character":7,"line":114},"start":{"character":7,"line":114}},"rangeLength":1,"rangeOffset":3550,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":" ","start":{"line":115,"offset":7},"end":{"line":115,"offset":7}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 8, line: 114 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":115,"offset":8},"end":{"line":115,"offset":8}}]}]
+event: [{"range":{"end":{"character":8,"line":114},"start":{"character":8,"line":114}},"rangeLength":1,"rangeOffset":3551,"text":"h"}]
+event: [{"range":{"end":{"character":9,"line":114},"start":{"character":9,"line":114}},"rangeLength":1,"rangeOffset":3552,"text":"a"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":115,"offset":9},"end":{"line":115,"offset":9}}]}]
+event: [{"range":{"end":{"character":10,"line":114},"start":{"character":10,"line":114}},"rangeLength":1,"rangeOffset":3553,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a","start":{"line":115,"offset":10},"end":{"line":115,"offset":10}}]}]
+event: [{"range":{"end":{"character":11,"line":114},"start":{"character":11,"line":114}},"rangeLength":1,"rangeOffset":3554,"text":" "}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":115,"offset":11},"end":{"line":115,"offset":11}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":" ","start":{"line":115,"offset":12},"end":{"line":115,"offset":12}}]}]
+event: [{"range":{"end":{"character":12,"line":114},"start":{"character":12,"line":114}},"rangeLength":1,"rangeOffset":3555,"text":"="}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"=","start":{"line":115,"offset":13},"end":{"line":115,"offset":13}}]}]
+event: [{"range":{"end":{"character":13,"line":114},"start":{"character":13,"line":114}},"rangeLength":1,"rangeOffset":3556,"text":"t"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 14, line: 114 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":115,"offset":14},"end":{"line":115,"offset":14}}]}]
+event: [{"range":{"end":{"character":14,"line":114},"start":{"character":14,"line":114}},"rangeLength":1,"rangeOffset":3557,"text":"h"}]
+event: [{"range":{"end":{"character":15,"line":114},"start":{"character":15,"line":114}},"rangeLength":1,"rangeOffset":3558,"text":"i"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":115,"offset":15},"end":{"line":115,"offset":15}}]}]
+event: [{"range":{"end":{"character":16,"line":114},"start":{"character":16,"line":114}},"rangeLength":1,"rangeOffset":3559,"text":"s"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"i","start":{"line":115,"offset":16},"end":{"line":115,"offset":16}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":"Variable","sortText":"11","filterText":"_"}
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":115,"offset":17},"end":{"line":115,"offset":17}}]}]
+event: [{"range":{"end":{"character":17,"line":114},"start":{"character":17,"line":114}},"rangeLength":1,"rangeOffset":3560,"text":";"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":";","start":{"line":115,"offset":18},"end":{"line":115,"offset":18}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":21,"line":117},"start":{"character":21,"line":117}},"rangeLength":1,"rangeOffset":3640,"text":"t"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 22, line: 117 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":118,"offset":22},"end":{"line":118,"offset":22}}]}]
+event: [{"range":{"end":{"character":22,"line":117},"start":{"character":22,"line":117}},"rangeLength":1,"rangeOffset":3641,"text":"h"}]
+event: [{"range":{"end":{"character":23,"line":117},"start":{"character":23,"line":117}},"rangeLength":1,"rangeOffset":3642,"text":"a"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":118,"offset":23},"end":{"line":118,"offset":23}}]}]
+event: [{"range":{"end":{"character":24,"line":117},"start":{"character":24,"line":117}},"rangeLength":1,"rangeOffset":3643,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a","start":{"line":118,"offset":24},"end":{"line":118,"offset":24}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":"Variable","sortText":"11","filterText":"_"}
+event: [{"range":{"end":{"character":25,"line":117},"start":{"character":25,"line":117}},"rangeLength":1,"rangeOffset":3644,"text":"."}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":118,"offset":25},"end":{"line":118,"offset":25}}]}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 26, line: 117 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":118,"offset":26},"end":{"line":118,"offset":26}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":0,"sortText":"17","filterText":"._","insertText":"._"}
+cancel last request:0
+event: [{"range":{"end":{"character":26,"line":38},"start":{"character":26,"line":38}},"rangeLength":2,"rangeOffset":1590,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":39},"start":{"character":0,"line":39}},"rangeLength":3,"rangeOffset":1592,"text":"\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":39,"offset":27},"end":{"line":39,"offset":27}}]}]
+event: [{"range":{"end":{"character":26,"line":38},"start":{"character":26,"line":38}},"rangeLength":1,"rangeOffset":1590,"text":","}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t","start":{"line":40,"offset":1},"end":{"line":40,"offset":1}}]}]
+event: [{"range":{"end":{"character":3,"line":39},"start":{"character":3,"line":39}},"rangeLength":7,"rangeOffset":1596,"text":"chongfu"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":",","start":{"line":39,"offset":27},"end":{"line":39,"offset":27}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"chongfu","start":{"line":40,"offset":4},"end":{"line":40,"offset":4}}]}]
+event: [{"range":{"end":{"character":10,"line":39},"start":{"character":10,"line":39}},"rangeLength":1,"rangeOffset":1603,"text":":"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":":","start":{"line":40,"offset":11},"end":{"line":40,"offset":11}}]}]
+event: [{"range":{"end":{"character":11,"line":39},"start":{"character":11,"line":39}},"rangeLength":27,"rangeOffset":1604,"text":"[\"⁠\", \"⁡\", \"⁢\",\"⁣\"]"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"[\"⁠\", \"⁡\", \"⁢\",\"⁣\"]","start":{"line":40,"offset":12},"end":{"line":40,"offset":12}}]}]
+diagnostics.$changeMany
+event: [{"range":{"end":{"character":30,"line":32},"start":{"character":30,"line":32}},"rangeLength":3,"rangeOffset":1428,"text":"，"}]
+event: [{"range":{"end":{"character":31,"line":32},"start":{"character":30,"line":32}},"rangeLength":3,"rangeOffset":1428,"text":""}]
+[LanguageServerIndex] [Error - 18:29:19] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":30,"line":32},"start":{"character":30,"line":32}},"rangeLength":1,"rangeOffset":1428,"text":","}]
+[LanguageServerIndex] [Error - 18:29:19] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 18:29:19] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":31,"line":32},"start":{"character":31,"line":32}},"rangeLength":2,"rangeOffset":1429,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":33},"start":{"character":0,"line":33}},"rangeLength":3,"rangeOffset":1431,"text":"\t\t\t"}]
+[LanguageServerIndex] [Error - 18:29:19] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 18:29:19] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":31,"line":32},"start":{"character":30,"line":32}},"rangeLength":1,"rangeOffset":1428,"text":""}]
+[LanguageServerIndex] [Error - 18:29:21] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+cancel last request:0
+buffer sync supports: []
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":27,"line":13},"start":{"character":26,"line":13}},"rangeLength":1,"rangeOffset":868,"text":""}]
+[LanguageServerIndex] [Error - 18:30:23] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":14,"offset":27},"end":{"line":14,"offset":28}}]}]
+event: [{"range":{"end":{"character":26,"line":14},"start":{"character":26,"line":14}},"rangeLength":3,"rangeOffset":990,"text":"！"}]
+event: [{"range":{"end":{"character":27,"line":14},"start":{"character":26,"line":14}},"rangeLength":3,"rangeOffset":990,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"！","start":{"line":15,"offset":27},"end":{"line":15,"offset":27}}]}]
+[LanguageServerIndex] [Error - 18:30:24] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 18:30:24] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":26,"line":14},"start":{"character":26,"line":14}},"rangeLength":1,"rangeOffset":990,"text":"!"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":15,"offset":27},"end":{"line":15,"offset":28}}]}]
+[LanguageServerIndex] [Error - 18:30:24] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"!","start":{"line":15,"offset":27},"end":{"line":15,"offset":27}}]}]
+cancel last request:0
+diagnostics.$changeMany
+sendEvent willSaveTextDocument
+cancel last request:0
+buffer sync supports: []
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":105,"line":14},"start":{"character":105,"line":14}},"rangeLength":117,"rangeOffset":1067,"text":"\r\n            <button  class=\"content1 button1\" type=\"primary\" @tap.stop.prevent=\"catch2tap\">重复名生成</button>"}]
+[LanguageServerIndex] [Error - 20:10:32] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n            <button  class=\"content1 button1\" type=\"primary\" @tap.stop.prevent=\"catch2tap\">重复名生成</button>","start":{"line":15,"offset":106},"end":{"line":15,"offset":106}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":96,"line":15},"start":{"character":96,"line":15}},"rangeLength":1,"rangeOffset":1175,"text":"1"}]
+[LanguageServerIndex] [Error - 20:10:35] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"1","start":{"line":16,"offset":97},"end":{"line":16,"offset":97}}]}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":89,"line":15},"start":{"character":80,"line":15}},"rangeLength":9,"rangeOffset":1149,"text":""}]
+event: [{"range":{"end":{"character":80,"line":15},"start":{"character":80,"line":15}},"rangeLength":11,"rangeOffset":1149,"text":"chongfuList"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":16,"offset":81},"end":{"line":16,"offset":90}}]}]
+[LanguageServerIndex] [Error - 20:10:54] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:10:54] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"chongfuList","start":{"line":16,"offset":81},"end":{"line":16,"offset":81}}]}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+sendEvent willSaveTextDocument
+cancel last request:0
+event: [{"range":{"end":{"character":4,"line":111},"start":{"character":4,"line":111}},"rangeLength":1,"rangeOffset":3505,"text":"t"}]
+[LanguageServerIndex] [Error - 20:11:50] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 5, line: 111 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":112,"offset":5},"end":{"line":112,"offset":5}}]}]
+event: [{"range":{"end":{"character":5,"line":111},"start":{"character":5,"line":111}},"rangeLength":1,"rangeOffset":3506,"text":"h"}]
+[LanguageServerIndex] [Error - 20:11:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":6,"line":111},"start":{"character":6,"line":111}},"rangeLength":1,"rangeOffset":3507,"text":"i"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":112,"offset":6},"end":{"line":112,"offset":6}}]}]
+[LanguageServerIndex] [Error - 20:11:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":7,"line":111},"start":{"character":7,"line":111}},"rangeLength":1,"rangeOffset":3508,"text":"s"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"i","start":{"line":112,"offset":7},"end":{"line":112,"offset":7}}]}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":112,"offset":8},"end":{"line":112,"offset":8}}]}]
+[LanguageServerIndex] [Error - 20:11:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":8,"line":111},"start":{"character":8,"line":111}},"rangeLength":1,"rangeOffset":3509,"text":"."}]
+[LanguageServerIndex] [Error - 20:11:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 9, line: 111 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":112,"offset":9},"end":{"line":112,"offset":9}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":0,"sortText":"17","filterText":"._","insertText":"._"}
+cancel last request:0
+event: [{"range":{"end":{"character":8,"line":111},"start":{"character":4,"line":111}},"rangeLength":4,"rangeOffset":3505,"text":""}]
+event: [{"range":{"end":{"character":4,"line":111},"start":{"character":4,"line":111}},"rangeLength":1,"rangeOffset":3505,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":112,"offset":5},"end":{"line":112,"offset":9}}]}]
+[LanguageServerIndex] [Error - 20:11:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:11:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":5,"line":111},"start":{"character":5,"line":111}},"rangeLength":1,"rangeOffset":3506,"text":"h"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":112,"offset":5},"end":{"line":112,"offset":5}}]}]
+[LanguageServerIndex] [Error - 20:11:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 5, line: 111 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":112,"offset":6},"end":{"line":112,"offset":6}}]}]
+event: [{"range":{"end":{"character":6,"line":111},"start":{"character":6,"line":111}},"rangeLength":1,"rangeOffset":3507,"text":"a"}]
+[LanguageServerIndex] [Error - 20:11:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":7,"line":111},"start":{"character":7,"line":111}},"rangeLength":1,"rangeOffset":3508,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a","start":{"line":112,"offset":7},"end":{"line":112,"offset":7}}]}]
+[LanguageServerIndex] [Error - 20:11:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":112,"offset":8},"end":{"line":112,"offset":8}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":"Variable","sortText":"11","filterText":"_"}
+cancel last request:0
+event: [{"range":{"end":{"character":23,"line":149},"start":{"character":23,"line":149}},"rangeLength":4,"rangeOffset":4916,"text":"that"}]
+[LanguageServerIndex] [Error - 20:12:05] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+cancel last request:0
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that","start":{"line":150,"offset":24},"end":{"line":150,"offset":24}}]}]
+event: [{"range":{"end":{"character":27,"line":149},"start":{"character":27,"line":149}},"rangeLength":1,"rangeOffset":4920,"text":"."}]
+[LanguageServerIndex] [Error - 20:12:06] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 28, line: 149 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":150,"offset":28},"end":{"line":150,"offset":28}}]}]
+cancel last request:0
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":0,"sortText":"17","filterText":"._","insertText":"._"}
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":13,"line":148},"start":{"character":13,"line":148}},"rangeLength":5,"rangeOffset":4872,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:11] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":149,"offset":14},"end":{"line":149,"offset":14}}]}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":12,"line":152},"start":{"character":12,"line":152}},"rangeLength":5,"rangeOffset":5017,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:15] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":153,"offset":13},"end":{"line":153,"offset":13}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":21,"line":154},"start":{"character":21,"line":154}},"rangeLength":5,"rangeOffset":5065,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:17] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":155,"offset":22},"end":{"line":155,"offset":22}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":33,"line":156},"start":{"character":33,"line":156}},"rangeLength":5,"rangeOffset":5163,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:19] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":157,"offset":34},"end":{"line":157,"offset":34}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":15,"line":157},"start":{"character":15,"line":157}},"rangeLength":5,"rangeOffset":5206,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:20] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":158,"offset":16},"end":{"line":158,"offset":16}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":6,"line":167},"start":{"character":6,"line":167}},"rangeLength":5,"rangeOffset":5379,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:23] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":168,"offset":7},"end":{"line":168,"offset":7}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":9,"line":171},"start":{"character":9,"line":171}},"rangeLength":5,"rangeOffset":5485,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:27] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":172,"offset":10},"end":{"line":172,"offset":10}}]}]
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":39,"line":170},"start":{"character":39,"line":170}},"rangeLength":5,"rangeOffset":5457,"text":"that."}]
+[LanguageServerIndex] [Error - 20:12:28] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"that.","start":{"line":171,"offset":40},"end":{"line":171,"offset":40}}]}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":30,"line":33},"start":{"character":30,"line":33}},"rangeLength":2,"rangeOffset":1523,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":34},"start":{"character":0,"line":34}},"rangeLength":3,"rangeOffset":1525,"text":"\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":34,"offset":31},"end":{"line":34,"offset":31}}]}]
+[LanguageServerIndex] [Error - 20:12:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:12:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":30,"line":33},"start":{"character":30,"line":33}},"rangeLength":1,"rangeOffset":1523,"text":","}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t","start":{"line":35,"offset":1},"end":{"line":35,"offset":1}}]}]
+[LanguageServerIndex] [Error - 20:12:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":",","start":{"line":34,"offset":31},"end":{"line":34,"offset":31}}]}]
+event: [{"range":{"end":{"character":3,"line":34},"start":{"character":3,"line":34}},"rangeLength":8,"rangeOffset":1529,"text":"gai_type"}]
+[LanguageServerIndex] [Error - 20:12:50] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"gai_type","start":{"line":35,"offset":4},"end":{"line":35,"offset":4}}]}]
+event: [{"range":{"end":{"character":11,"line":34},"start":{"character":11,"line":34}},"rangeLength":3,"rangeOffset":1537,"text":"："}]
+event: [{"range":{"end":{"character":12,"line":34},"start":{"character":11,"line":34}},"rangeLength":3,"rangeOffset":1537,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"：","start":{"line":35,"offset":12},"end":{"line":35,"offset":12}}]}]
+[LanguageServerIndex] [Error - 20:12:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":11,"line":34},"start":{"character":11,"line":34}},"rangeLength":1,"rangeOffset":1537,"text":":"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":35,"offset":12},"end":{"line":35,"offset":13}}]}]
+[LanguageServerIndex] [Error - 20:12:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:12:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":12,"line":34},"start":{"character":12,"line":34}},"rangeLength":1,"rangeOffset":1538,"text":"0"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":":","start":{"line":35,"offset":12},"end":{"line":35,"offset":12}}]}]
+[LanguageServerIndex] [Error - 20:12:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"0","start":{"line":35,"offset":13},"end":{"line":35,"offset":13}}]}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":13,"line":34},"start":{"character":13,"line":34}},"rangeLength":2,"rangeOffset":1539,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":35},"start":{"character":0,"line":35}},"rangeLength":3,"rangeOffset":1541,"text":"\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":35,"offset":14},"end":{"line":35,"offset":14}}]}]
+[LanguageServerIndex] [Error - 20:13:31] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:13:31] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":13,"line":34},"start":{"character":13,"line":34}},"rangeLength":1,"rangeOffset":1539,"text":","}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t","start":{"line":36,"offset":1},"end":{"line":36,"offset":1}}]}]
+[LanguageServerIndex] [Error - 20:13:31] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":",","start":{"line":35,"offset":14},"end":{"line":35,"offset":14}}]}]
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":3,"line":35}},"rangeLength":96,"rangeOffset":1545,"text":"\"chongfu_android\", [\"⁤\", \"⁥\", \"⁦\", \"⁨\", \"⁩\", \"⁪\", \"⁫\", \"⁬\", \"⁭\", \"⁮\", \"⁯\"]"}]
+[LanguageServerIndex] [Error - 20:13:32] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\"chongfu_android\", [\"⁤\", \"⁥\", \"⁦\", \"⁨\", \"⁩\", \"⁪\", \"⁫\", \"⁬\", \"⁭\", \"⁮\", \"⁯\"]","start":{"line":36,"offset":4},"end":{"line":36,"offset":4}}]}]
+cancel last request:0
+diagnostics.$changeMany
+buffer sync supports: []
+event: [{"range":{"end":{"character":4,"line":35},"start":{"character":3,"line":35}},"rangeLength":1,"rangeOffset":1545,"text":""}]
+[LanguageServerIndex] [Error - 20:13:34] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":2,"line":35}},"rangeLength":1,"rangeOffset":1544,"text":""}]
+event: [{"range":{"end":{"character":2,"line":35},"start":{"character":2,"line":35}},"rangeLength":1,"rangeOffset":1544,"text":" "}]
+[LanguageServerIndex] [Error - 20:13:34] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":2,"line":35}},"rangeLength":1,"rangeOffset":1544,"text":""}]
+[LanguageServerIndex] [Error - 20:13:34] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:13:34] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":2,"line":35}},"rangeLength":1,"rangeOffset":1544,"text":""}]
+[LanguageServerIndex] [Error - 20:13:36] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":2,"line":35}},"rangeLength":1,"rangeOffset":1544,"text":""}]
+[LanguageServerIndex] [Error - 20:13:36] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":0,"line":35}},"rangeLength":3,"rangeOffset":1542,"text":""}]
+event: [{"range":{"end":{"character":0,"line":35},"start":{"character":0,"line":35}},"rangeLength":3,"rangeOffset":1542,"text":"\t\t\t"}]
+[LanguageServerIndex] [Error - 20:13:37] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:13:37] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":3,"line":35}},"rangeLength":15,"rangeOffset":1545,"text":"chongfu_android"}]
+[LanguageServerIndex] [Error - 20:13:37] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":18,"line":35},"start":{"character":18,"line":35}},"rangeLength":3,"rangeOffset":1560,"text":"："}]
+[LanguageServerIndex] [Error - 20:13:38] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":19,"line":35},"start":{"character":18,"line":35}},"rangeLength":3,"rangeOffset":1560,"text":""}]
+event: [{"range":{"end":{"character":18,"line":35},"start":{"character":18,"line":35}},"rangeLength":1,"rangeOffset":1560,"text":":"}]
+[LanguageServerIndex] [Error - 20:13:38] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:13:38] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+sendEvent willSaveTextDocument
+diagnostics.$changeMany
+cancel last request:0
+buffer sync supports: []
+event: [{"range":{"end":{"character":35,"line":115},"start":{"character":26,"line":115}},"rangeLength":9,"rangeOffset":3703,"text":""}]
+event: [{"range":{"end":{"character":26,"line":115},"start":{"character":26,"line":115}},"rangeLength":7,"rangeOffset":3703,"text":"shuruNu"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":116,"offset":27},"end":{"line":116,"offset":36}}]}]
+[LanguageServerIndex] [Error - 20:14:09] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:09] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"shuruNu","start":{"line":116,"offset":27},"end":{"line":116,"offset":27}}]}]
+event: [{"range":{"end":{"character":33,"line":115},"start":{"character":26,"line":115}},"rangeLength":7,"rangeOffset":3703,"text":""}]
+event: [{"range":{"end":{"character":26,"line":115},"start":{"character":26,"line":115}},"rangeLength":9,"rangeOffset":3703,"text":"inputname"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":116,"offset":27},"end":{"line":116,"offset":34}}]}]
+[LanguageServerIndex] [Error - 20:14:12] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:12] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"inputname","start":{"line":116,"offset":27},"end":{"line":116,"offset":27}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":35,"line":115},"start":{"character":26,"line":115}},"rangeLength":9,"rangeOffset":3703,"text":""}]
+event: [{"range":{"end":{"character":26,"line":115},"start":{"character":26,"line":115}},"rangeLength":7,"rangeOffset":3703,"text":"shuruNu"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":116,"offset":27},"end":{"line":116,"offset":36}}]}]
+[LanguageServerIndex] [Error - 20:14:13] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:13] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"shuruNu","start":{"line":116,"offset":27},"end":{"line":116,"offset":27}}]}]
+cancel last request:0
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":18,"line":112},"start":{"character":18,"line":112}},"rangeLength":2,"rangeOffset":3614,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":113},"start":{"character":0,"line":113}},"rangeLength":3,"rangeOffset":3616,"text":"\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":113,"offset":19},"end":{"line":113,"offset":19}}]}]
+[LanguageServerIndex] [Error - 20:14:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":113},"start":{"character":3,"line":113}},"rangeLength":1,"rangeOffset":3619,"text":"c"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t","start":{"line":114,"offset":1},"end":{"line":114,"offset":1}}]}]
+[LanguageServerIndex] [Error - 20:14:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 4, line: 113 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"c","start":{"line":114,"offset":4},"end":{"line":114,"offset":4}}]}]
+event: [{"range":{"end":{"character":4,"line":113},"start":{"character":4,"line":113}},"rangeLength":1,"rangeOffset":3620,"text":"o"}]
+[LanguageServerIndex] [Error - 20:14:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":5,"line":113},"start":{"character":5,"line":113}},"rangeLength":1,"rangeOffset":3621,"text":"n"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":114,"offset":5},"end":{"line":114,"offset":5}}]}]
+[LanguageServerIndex] [Error - 20:14:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":6,"line":113},"start":{"character":6,"line":113}},"rangeLength":1,"rangeOffset":3622,"text":"s"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"n","start":{"line":114,"offset":6},"end":{"line":114,"offset":6}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":"Variable","sortText":"11","filterText":"_"}
+[LanguageServerIndex] [Error - 20:14:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":7,"line":113},"start":{"character":7,"line":113}},"rangeLength":1,"rangeOffset":3623,"text":"o"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":114,"offset":7},"end":{"line":114,"offset":7}}]}]
+[LanguageServerIndex] [Error - 20:14:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":8,"line":113},"start":{"character":8,"line":113}},"rangeLength":2,"rangeOffset":3624,"text":"\r\n"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":114,"offset":8},"end":{"line":114,"offset":8}}]}]
+event: [{"range":{"end":{"character":0,"line":114},"start":{"character":0,"line":114}},"rangeLength":3,"rangeOffset":3626,"text":"\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":114,"offset":9},"end":{"line":114,"offset":9}}]}]
+[LanguageServerIndex] [Error - 20:14:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:49] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t","start":{"line":115,"offset":1},"end":{"line":115,"offset":1}}]}]
+event: [{"range":{"end":{"character":3,"line":114},"start":{"character":0,"line":114}},"rangeLength":3,"rangeOffset":3626,"text":""}]
+event: [{"range":{"end":{"character":0,"line":114},"start":{"character":8,"line":113}},"rangeLength":2,"rangeOffset":3624,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":115,"offset":1},"end":{"line":115,"offset":4}}]}]
+[LanguageServerIndex] [Error - 20:14:50] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:50] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":9},"end":{"line":115,"offset":1}}]}]
+event: [{"range":{"end":{"character":8,"line":113},"start":{"character":7,"line":113}},"rangeLength":1,"rangeOffset":3623,"text":""}]
+[LanguageServerIndex] [Error - 20:14:50] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":7,"line":113},"start":{"character":6,"line":113}},"rangeLength":1,"rangeOffset":3622,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":8},"end":{"line":114,"offset":9}}]}]
+[LanguageServerIndex] [Error - 20:14:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":6,"line":113},"start":{"character":5,"line":113}},"rangeLength":1,"rangeOffset":3621,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":7},"end":{"line":114,"offset":8}}]}]
+[LanguageServerIndex] [Error - 20:14:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":5,"line":113},"start":{"character":4,"line":113}},"rangeLength":1,"rangeOffset":3620,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":6},"end":{"line":114,"offset":7}}]}]
+[LanguageServerIndex] [Error - 20:14:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":4,"line":113},"start":{"character":3,"line":113}},"rangeLength":1,"rangeOffset":3619,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":5},"end":{"line":114,"offset":6}}]}]
+[LanguageServerIndex] [Error - 20:14:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":113},"start":{"character":3,"line":113}},"rangeLength":1,"rangeOffset":3619,"text":"c"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":4},"end":{"line":114,"offset":5}}]}]
+[LanguageServerIndex] [Error - 20:14:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 4, line: 113 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"c","start":{"line":114,"offset":4},"end":{"line":114,"offset":4}}]}]
+event: [{"range":{"end":{"character":4,"line":113},"start":{"character":4,"line":113}},"rangeLength":1,"rangeOffset":3620,"text":"o"}]
+[LanguageServerIndex] [Error - 20:14:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":5,"line":113},"start":{"character":5,"line":113}},"rangeLength":1,"rangeOffset":3621,"text":"n"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":114,"offset":5},"end":{"line":114,"offset":5}}]}]
+[LanguageServerIndex] [Error - 20:14:51] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":"Variable","sortText":"11","filterText":"_"}
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"n","start":{"line":114,"offset":6},"end":{"line":114,"offset":6}}]}]
+event: [{"range":{"end":{"character":6,"line":113},"start":{"character":6,"line":113}},"rangeLength":1,"rangeOffset":3622,"text":"s"}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":7,"line":113},"start":{"character":7,"line":113}},"rangeLength":1,"rangeOffset":3623,"text":"o"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"s","start":{"line":114,"offset":7},"end":{"line":114,"offset":7}}]}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":8,"line":113},"start":{"character":8,"line":113}},"rangeLength":1,"rangeOffset":3624,"text":"l"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":114,"offset":8},"end":{"line":114,"offset":8}}]}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":9,"line":113},"start":{"character":9,"line":113}},"rangeLength":1,"rangeOffset":3625,"text":"e"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"l","start":{"line":114,"offset":9},"end":{"line":114,"offset":9}}]}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":10,"line":113},"start":{"character":10,"line":113}},"rangeLength":1,"rangeOffset":3626,"text":"."}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"e","start":{"line":114,"offset":10},"end":{"line":114,"offset":10}}]}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 11, line: 113 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":114,"offset":11},"end":{"line":114,"offset":11}}]}]
+event: [{"range":{"end":{"character":11,"line":113},"start":{"character":11,"line":113}},"rangeLength":1,"rangeOffset":3627,"text":"l"}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":12,"line":113},"start":{"character":12,"line":113}},"rangeLength":1,"rangeOffset":3628,"text":"o"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"l","start":{"line":114,"offset":12},"end":{"line":114,"offset":12}}]}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":13,"line":113},"start":{"character":13,"line":113}},"rangeLength":1,"rangeOffset":3629,"text":"g"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"o","start":{"line":114,"offset":13},"end":{"line":114,"offset":13}}]}]
+[LanguageServerIndex] [Error - 20:14:52] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":0,"sortText":"17","filterText":"._","insertText":"._"}
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"g","start":{"line":114,"offset":14},"end":{"line":114,"offset":14}}]}]
+event: [{"range":{"end":{"character":14,"line":113},"start":{"character":14,"line":113}},"rangeLength":1,"rangeOffset":3630,"text":"("}]
+event: [{"range":{"end":{"character":15,"line":113},"start":{"character":14,"line":113}},"rangeLength":1,"rangeOffset":3630,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"(","start":{"line":114,"offset":15},"end":{"line":114,"offset":15}}]}]
+[LanguageServerIndex] [Error - 20:14:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":14,"line":113},"start":{"character":14,"line":113}},"rangeLength":2,"rangeOffset":3630,"text":"()"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":15},"end":{"line":114,"offset":16}}]}]
+[LanguageServerIndex] [Error - 20:14:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+cancel last request:0
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"()","start":{"line":114,"offset":15},"end":{"line":114,"offset":15}}]}]
+event: [{"range":{"end":{"character":16,"line":113},"start":{"character":16,"line":113}},"rangeLength":7,"rangeOffset":3632,"text":"chongfu"}]
+[LanguageServerIndex] [Error - 20:14:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"chongfu","start":{"line":114,"offset":17},"end":{"line":114,"offset":17}}]}]
+event: [{"range":{"end":{"character":23,"line":113},"start":{"character":16,"line":113}},"rangeLength":7,"rangeOffset":3632,"text":""}]
+[LanguageServerIndex] [Error - 20:14:53] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":17},"end":{"line":114,"offset":24}}]}]
+event: [{"range":{"end":{"character":15,"line":113},"start":{"character":15,"line":113}},"rangeLength":1,"rangeOffset":3631,"text":"h"}]
+[LanguageServerIndex] [Error - 20:14:54] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 16, line: 113 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":114,"offset":16},"end":{"line":114,"offset":16}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":"Variable","sortText":"11","filterText":"_"}
+event: [{"range":{"end":{"character":16,"line":113},"start":{"character":15,"line":113}},"rangeLength":1,"rangeOffset":3631,"text":""}]
+[LanguageServerIndex] [Error - 20:14:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":15,"line":113},"start":{"character":15,"line":113}},"rangeLength":1,"rangeOffset":3631,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":114,"offset":16},"end":{"line":114,"offset":17}}]}]
+[LanguageServerIndex] [Error - 20:14:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":114,"offset":16},"end":{"line":114,"offset":16}}]}]
+event: [{"range":{"end":{"character":16,"line":113},"start":{"character":16,"line":113}},"rangeLength":1,"rangeOffset":3632,"text":"h"}]
+event: [{"range":{"end":{"character":17,"line":113},"start":{"character":17,"line":113}},"rangeLength":1,"rangeOffset":3633,"text":"a"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":114,"offset":17},"end":{"line":114,"offset":17}}]}]
+[LanguageServerIndex] [Error - 20:14:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:14:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":18,"line":113},"start":{"character":18,"line":113}},"rangeLength":1,"rangeOffset":3634,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a","start":{"line":114,"offset":18},"end":{"line":114,"offset":18}}]}]
+[LanguageServerIndex] [Error - 20:14:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":19,"line":113},"start":{"character":19,"line":113}},"rangeLength":1,"rangeOffset":3635,"text":"."}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":114,"offset":19},"end":{"line":114,"offset":19}}]}]
+[LanguageServerIndex] [Error - 20:14:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 20, line: 113 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":114,"offset":20},"end":{"line":114,"offset":20}}]}]
+event: [{"range":{"end":{"character":20,"line":113},"start":{"character":20,"line":113}},"rangeLength":7,"rangeOffset":3636,"text":"chongfu"}]
+[LanguageServerIndex] [Error - 20:14:55] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":0,"sortText":"17","filterText":"._","insertText":"._"}
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"chongfu","start":{"line":114,"offset":21},"end":{"line":114,"offset":21}}]}]
+sendEvent willSaveTextDocument
+event: [{"range":{"end":{"character":14,"line":34},"start":{"character":14,"line":34}},"rangeLength":2,"rangeOffset":1540,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":35},"start":{"character":0,"line":35}},"rangeLength":3,"rangeOffset":1542,"text":"\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":35,"offset":15},"end":{"line":35,"offset":15}}]}]
+[LanguageServerIndex] [Error - 20:15:17] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:15:17] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":3,"line":35}},"rangeLength":9,"rangeOffset":1545,"text":"gai_type "}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t","start":{"line":36,"offset":1},"end":{"line":36,"offset":1}}]}]
+[LanguageServerIndex] [Error - 20:15:17] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"gai_type ","start":{"line":36,"offset":4},"end":{"line":36,"offset":4}}]}]
+event: [{"range":{"end":{"character":12,"line":35},"start":{"character":3,"line":35}},"rangeLength":9,"rangeOffset":1545,"text":""}]
+[LanguageServerIndex] [Error - 20:15:19] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":36,"offset":4},"end":{"line":36,"offset":13}}]}]
+event: [{"range":{"end":{"character":3,"line":35},"start":{"character":0,"line":35}},"rangeLength":3,"rangeOffset":1542,"text":""}]
+event: [{"range":{"end":{"character":0,"line":35},"start":{"character":14,"line":34}},"rangeLength":2,"rangeOffset":1540,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":36,"offset":1},"end":{"line":36,"offset":4}}]}]
+[LanguageServerIndex] [Error - 20:15:20] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:15:20] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":35,"offset":15},"end":{"line":36,"offset":1}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":28,"line":113},"start":{"character":28,"line":113}},"rangeLength":30,"rangeOffset":3644,"text":"\r\n\t\t\tconsole.log(that.chongfu)"}]
+[LanguageServerIndex] [Error - 20:15:24] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n\t\t\tconsole.log(that.chongfu)","start":{"line":114,"offset":29},"end":{"line":114,"offset":29}}]}]
+event: [{"range":{"end":{"character":27,"line":114},"start":{"character":20,"line":114}},"rangeLength":7,"rangeOffset":3666,"text":""}]
+event: [{"range":{"end":{"character":20,"line":114},"start":{"character":20,"line":114}},"rangeLength":9,"rangeOffset":3666,"text":"gai_type "}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":115,"offset":21},"end":{"line":115,"offset":28}}]}]
+[LanguageServerIndex] [Error - 20:15:25] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:15:25] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"gai_type ","start":{"line":115,"offset":21},"end":{"line":115,"offset":21}}]}]
+event: [{"range":{"end":{"character":29,"line":114},"start":{"character":28,"line":114}},"rangeLength":1,"rangeOffset":3674,"text":""}]
+[LanguageServerIndex] [Error - 20:15:25] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":115,"offset":29},"end":{"line":115,"offset":30}}]}]
+cancel last request:0
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":13,"line":150},"start":{"character":13,"line":150}},"rangeLength":1,"rangeOffset":4971,"text":"t"}]
+[LanguageServerIndex] [Error - 20:15:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 14, line: 150 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":151,"offset":14},"end":{"line":151,"offset":14}}]}]
+event: [{"range":{"end":{"character":14,"line":150},"start":{"character":14,"line":150}},"rangeLength":1,"rangeOffset":4972,"text":"h"}]
+[LanguageServerIndex] [Error - 20:15:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":15,"line":150},"start":{"character":15,"line":150}},"rangeLength":1,"rangeOffset":4973,"text":"a"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"h","start":{"line":151,"offset":15},"end":{"line":151,"offset":15}}]}]
+[LanguageServerIndex] [Error - 20:15:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":16,"line":150},"start":{"character":16,"line":150}},"rangeLength":1,"rangeOffset":4974,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"a","start":{"line":151,"offset":16},"end":{"line":151,"offset":16}}]}]
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":"Variable","sortText":"11","filterText":"_"}
+[LanguageServerIndex] [Error - 20:15:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"t","start":{"line":151,"offset":17},"end":{"line":151,"offset":17}}]}]
+event: [{"range":{"end":{"character":17,"line":150},"start":{"character":17,"line":150}},"rangeLength":1,"rangeOffset":4975,"text":"."}]
+[LanguageServerIndex] [Error - 20:15:48] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 18, line: 150 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":".","start":{"line":151,"offset":18},"end":{"line":151,"offset":18}}]}]
+sendEvent willSaveTextDocument
+isIncomplete: false
+fromProvider: 1045
+firstItem: {"label":"_","kind":0,"sortText":"17","filterText":"._","insertText":"._"}
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":18,"line":176},"start":{"character":18,"line":176}},"rangeLength":2,"rangeOffset":5714,"text":"\r\n"}]
+event: [{"range":{"end":{"character":0,"line":177},"start":{"character":0,"line":177}},"rangeLength":4,"rangeOffset":5716,"text":"\t\t\t\t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\r\n","start":{"line":177,"offset":19},"end":{"line":177,"offset":19}}]}]
+[LanguageServerIndex] [Error - 20:23:37] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+[LanguageServerIndex] [Error - 20:23:37] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+event: [{"range":{"end":{"character":4,"line":177},"start":{"character":4,"line":177}},"rangeLength":74,"rangeOffset":5720,"text":"wx.setClipboardData({\r\n\t\t\t\t\tdata: v,\r\n\t\t\t\t\tsuccess: function(t) {}\r\n\t\t\t\t})"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"\t\t\t\t","start":{"line":178,"offset":1},"end":{"line":178,"offset":1}}]}]
+[LanguageServerIndex] [Error - 20:23:37] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"wx.setClipboardData({\r\n\t\t\t\t\tdata: v,\r\n\t\t\t\t\tsuccess: function(t) {}\r\n\t\t\t\t})","start":{"line":178,"offset":5},"end":{"line":178,"offset":5}}]}]
+sendEvent willSaveTextDocument
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":13,"line":178},"start":{"character":13,"line":178}},"rangeLength":18,"rangeOffset":5756,"text":"⁢⁣门槛⁣石"}]
+[LanguageServerIndex] [Error - 20:25:46] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"⁢⁣门槛⁣石","start":{"line":179,"offset":14},"end":{"line":179,"offset":14}}]}]
+event: [{"range":{"end":{"character":19,"line":178},"start":{"character":13,"line":178}},"rangeLength":18,"rangeOffset":5756,"text":""}]
+[LanguageServerIndex] [Error - 20:25:46] Notification handler 'textDocument/didChange' failed with message: TextDocument.update: document must be created by TextDocument.create
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/pages/index1/index1.vue","textChanges":[{"newText":"","start":{"line":179,"offset":14},"end":{"line":179,"offset":20}}]}]
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":0},"start":{"character":0,"line":0}},"rangeLength":3,"rangeOffset":0,"text":"// "}]
+event: [{"range":{"end":{"character":3,"line":0},"start":{"character":0,"line":0}},"rangeLength":3,"rangeOffset":0,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"// ","start":{"line":1,"offset":1},"end":{"line":1,"offset":1}}]}]
+cancel last request:0
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"","start":{"line":1,"offset":1},"end":{"line":1,"offset":4}}]}]
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":1},"start":{"character":0,"line":1}},"rangeLength":1,"rangeOffset":48,"text":"w"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 1, line: 1 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"w","start":{"line":2,"offset":1},"end":{"line":2,"offset":1}}]}]
+event: [{"range":{"end":{"character":1,"line":1},"start":{"character":1,"line":1}},"rangeLength":1,"rangeOffset":49,"text":"x"}]
+isIncomplete: false
+fromProvider: 1033
+firstItem: {"label":"__dirname","kind":"Variable","sortText":"15","filterText":"__dirname"}
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"x","start":{"line":2,"offset":2},"end":{"line":2,"offset":2}}]}]
+event: [{"range":{"end":{"character":2,"line":1},"start":{"character":2,"line":1}},"rangeLength":1,"rangeOffset":50,"text":"."}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 3, line: 1 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":".","start":{"line":2,"offset":3},"end":{"line":2,"offset":3}}]}]
+isIncomplete: false
+fromProvider: 1033
+firstItem: {"label":"_id","kind":0,"sortText":"17","filterText":"._id","insertText":"._id"}
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":46,"line":0},"start":{"character":46,"line":0}},"rangeLength":2,"rangeOffset":46,"text":"\r\n"}]
+cancel last request:0
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"\r\n","start":{"line":1,"offset":47},"end":{"line":1,"offset":47}}]}]
+event: [{"range":{"end":{"character":0,"line":1},"start":{"character":0,"line":1}},"rangeLength":1,"rangeOffset":48,"text":"l"}]
+-------------------- onRequest language/fire_provideCompletionItems { position: { character: 1, line: 1 } }
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"l","start":{"line":2,"offset":1},"end":{"line":2,"offset":1}}]}]
+event: [{"range":{"end":{"character":1,"line":1},"start":{"character":1,"line":1}},"rangeLength":1,"rangeOffset":49,"text":"e"}]
+event: [{"range":{"end":{"character":2,"line":1},"start":{"character":2,"line":1}},"rangeLength":1,"rangeOffset":50,"text":"t"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"e","start":{"line":2,"offset":2},"end":{"line":2,"offset":2}}]}]
+event: [{"range":{"end":{"character":3,"line":1},"start":{"character":3,"line":1}},"rangeLength":1,"rangeOffset":51,"text":" "}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"t","start":{"line":2,"offset":3},"end":{"line":2,"offset":3}}]}]
+isIncomplete: false
+fromProvider: 1033
+firstItem: {"label":"__dirname","kind":"Variable","sortText":"15","filterText":"__dirname"}
+event: [{"range":{"end":{"character":4,"line":1},"start":{"character":4,"line":1}},"rangeLength":8,"rangeOffset":52,"text":"wx.cloud"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":" ","start":{"line":2,"offset":4},"end":{"line":2,"offset":4}}]}]
+event: [{"range":{"end":{"character":12,"line":1},"start":{"character":12,"line":1}},"rangeLength":1,"rangeOffset":60,"text":"="}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"wx.cloud","start":{"line":2,"offset":5},"end":{"line":2,"offset":5}}]}]
+event: [{"range":{"end":{"character":13,"line":1},"start":{"character":13,"line":1}},"rangeLength":8,"rangeOffset":61,"text":"wx.cloud"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"=","start":{"line":2,"offset":13},"end":{"line":2,"offset":13}}]}]
+event: [{"range":{"end":{"character":6,"line":1},"start":{"character":4,"line":1}},"rangeLength":2,"rangeOffset":52,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"wx.cloud","start":{"line":2,"offset":14},"end":{"line":2,"offset":14}}]}]
+event: [{"range":{"end":{"character":5,"line":1},"start":{"character":4,"line":1}},"rangeLength":1,"rangeOffset":52,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"","start":{"line":2,"offset":5},"end":{"line":2,"offset":7}}]}]
+event: [{"range":{"end":{"character":18,"line":1},"start":{"character":18,"line":1}},"rangeLength":1,"rangeOffset":66,"text":";"}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"","start":{"line":2,"offset":5},"end":{"line":2,"offset":6}}]}]
+sendEvent willSaveTextDocument
+!!! NULL docs activeTextEditor return null
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":";","start":{"line":2,"offset":19},"end":{"line":2,"offset":19}}]}]
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+diagnostics.$changeMany
+buffer sync supports: []
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+buffer sync supports: []
+cancel last request:0
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+cancel last request:0
+diagnostics.$changeMany
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+cancel last request:0
+diagnostics.$changeMany
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+cancel last request:0
+event: [{"range":{"end":{"character":0,"line":14},"start":{"character":0,"line":0}},"rangeLength":258,"rangeOffset":0,"text":""}]
+event: [{"range":{"end":{"character":0,"line":0},"start":{"character":0,"line":0}},"rangeLength":2,"rangeOffset":0,"text":"\r\n"}]
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+!!! NULL docs activeTextEditor return null
+event: [{"range":{"end":{"character":1,"line":36},"start":{"character":0,"line":0}},"rangeLength":885,"rangeOffset":0,"text":""}]
+buffer sync supports: [{"fileName":"h:/Project/gaimingWeChatMiniProgram-master_uni/uniCloud-aliyun/cloudfunctions/newUser/index.js","textChanges":[{"newText":"","start":{"line":1,"offset":1},"end":{"line":37,"offset":2}}]}]
+diagnostics.$changeMany
+buffer sync supports: []
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+diagnostics.$changeMany
+diagnostics.$changeMany
+buffer sync supports: []
+diagnostics.$changeMany
+cancel last request:0
+buffer sync supports: []
+buffer sync supports: []
+cancel last request:0
+cancel last request:0
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+!!! NULL docs activeTextEditor return null
+buffer sync supports: []
+diagnostics.$changeMany
+diagnostics.$changeMany
+buffer sync supports: []
+!!! NULL docs activeTextEditor return null
+diagnostics.$changeMany
+cancel last request:0
+buffer sync supports: []
+cancel last request:0
+diagnostics.$changeMany
+diagnostics.$changeMany
+diagnostics.$clear

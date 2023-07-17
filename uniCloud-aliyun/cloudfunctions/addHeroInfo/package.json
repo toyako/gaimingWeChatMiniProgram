@@ -1,0 +1,7 @@
+{
+  "name": "addHeroInfo",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

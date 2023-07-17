@@ -1,0 +1,18 @@
+{
+	"name": "wz",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"dependencies": {
+		"wx-server-sdk": "^2.6.3"
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"node-sass": "^4.14.1",
+		"sass-loader": "^7.3.1"
+	}
+}
